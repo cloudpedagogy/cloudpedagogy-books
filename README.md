@@ -34,6 +34,12 @@ Additional formats (e.g. Word) may be provided where appropriate to support educ
 
 ---
 
+## Note on AI Assistance
+
+This book was developed with the assistance of generative AI tools as part of an iterative research, drafting, and editing process. Generative systems were used to support exploration, synthesis, and revision. The author retained full responsibility for the structure, arguments, interpretations, and final content of the work.
+
+---
+
 ## Licence
 
 Unless stated otherwise, content in this repository is released under the  
