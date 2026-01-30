@@ -1,26 +1,47 @@
 # CloudPedagogy Books
 
-A growing collection of open, long-form CloudPedagogy texts exploring AI capability, generative AI, ethics, governance, and applied professional practice.
+A curated collection of open, long-form CloudPedagogy texts exploring AI capability, generative AI, ethics, governance, and applied professional practice.
+
+---
 
 ## Purpose
-This repository hosts **books**, not courses or frameworks.  
-Each book provides deeper conceptual, ethical, or practice-oriented exploration that complements the CloudPedagogy ecosystem.
+
+This repository hosts **books**, not courses, tools, or framework specifications.
+
+Each book provides sustained conceptual, ethical, or practice-oriented exploration that complements the wider CloudPedagogy ecosystem, including the AI Capability Framework, courses, and applied resources.
 
 Books are added incrementally and versioned on release.
 
+---
+
 ## Sections
-- **Ethics** — AI ethics and generative AI ethics
-- **Generative AI** — understanding and working with GenAI
-- **AI Capability Series** — practice-facing companions aligned to the AI Capability Framework
-- **Governance & Institutions** — decision-making and institutional use
+
+- **Ethics** — AI ethics and generative AI ethics  
+- **Generative AI** — understanding and working with generative AI systems  
+- **AI Capability Series** — practice-facing companion books aligned with the AI Capability Framework  
+- **Governance & Institutions** — decision-making, policy, and institutional use of AI  
+
+---
 
 ## Formats
-Books will typically be provided as:
-- Markdown (`.md`) for online reading
-- PDF (`.pdf`) for offline and print use
+
+Books are typically provided in:
+
+- **Markdown (`.md`)** — canonical, open text for online reading and reuse  
+- **PDF (`.pdf`)** — formatted editions for offline reading and print  
+
+Additional formats (e.g. Word) may be provided where appropriate to support educational adaptation.
+
+---
 
 ## Licence
-Unless stated otherwise, content in this repository is released under **CC BY-NC-SA 4.0**.
+
+Unless stated otherwise, content in this repository is released under the  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** licence.
+
+---
 
 ## Author
-Jonathan Wong (CloudPedagogy)
+
+**Jonathan Wong**  
+CloudPedagogy
