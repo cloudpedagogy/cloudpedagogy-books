@@ -1,4 +1,4 @@
-# TITLE
+# AI Ethics Foundations
 
 Status: Draft / Placeholder
 
