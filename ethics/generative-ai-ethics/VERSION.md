@@ -18,4 +18,11 @@ The book is published as a living text. Revisions may include clarification, exp
 
 ---
 
+## Corrections and Updates
+
+Readers who identify factual errors are welcome to report them via the GitHub repository.  
+Corrections and clarifications may be incorporated in future versions, with changes documented in the version history.
+
+---
+
 Future updates will be recorded here with version numbers and brief summaries of changes.
