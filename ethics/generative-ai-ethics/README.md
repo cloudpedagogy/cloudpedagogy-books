@@ -1,6 +1,5 @@
 # Generative AI Ethics
-
-**Status:** Draft (content complete, formatting and release preparation in progress)
+An open-access book published by CloudPedagogy.
 
 ## Overview
 
