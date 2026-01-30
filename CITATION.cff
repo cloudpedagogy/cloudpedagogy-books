@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use CloudPedagogy Books, please cite it as below."
+type: dataset
+title: "CloudPedagogy Books"
+authors:
+  - family-names: "Wong"
+    given-names: "Jonathan"
+repository-code: "https://github.com/cloudpedagogy/cloudpedagogy-books"
+license: "CC-BY-NC-SA-4.0"
