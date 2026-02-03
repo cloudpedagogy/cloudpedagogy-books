@@ -110,8 +110,7 @@ This book is published in the following formats:
   - Canonical, open-source version  
 - **PDF:** `human-ai-co-agency.pdf`  
   - Formatted, reader-friendly edition  
-- **Word:** `human-ai-co-agency.docx`  
-  - Provided for educational adaptation and institutional reuse  
+
 
 ---
 
