@@ -85,6 +85,13 @@ Release history and updates are recorded in `VERSION.md`.
 
 ---
 
+## Disclaimer
+
+This book is provided for educational and informational purposes only.  
+For full licensing and disclaimer terms, see the repository root README.
+
+---
+
 ## About CloudPedagogy
 
 CloudPedagogy develops open, governance-aware resources for building responsible AI capability across education, research, and public service.
