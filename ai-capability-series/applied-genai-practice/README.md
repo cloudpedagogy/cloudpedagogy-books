@@ -117,8 +117,6 @@ This book is published in the following formats:
   - Canonical, open-source version  
 - **PDF:** `applied-generative-ai-practice.pdf`  
   - Formatted, reader-friendly edition  
-- **Word:** `applied-generative-ai-practice.docx`  
-  - Provided for educational adaptation and institutional reuse  
 
 ---
 
