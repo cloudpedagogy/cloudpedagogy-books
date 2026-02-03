@@ -106,8 +106,6 @@ This book is published in the following formats:
   - Canonical, open-source version  
 - **PDF:** `ethics-equity-impact.pdf`  
   - Formatted, reader-friendly edition  
-- **Word:** `ethics-equity-impact.docx`  
-  - Provided for educational adaptation and institutional reuse  
 
 ---
 
