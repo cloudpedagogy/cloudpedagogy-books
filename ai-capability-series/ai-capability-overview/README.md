@@ -101,8 +101,6 @@ This book is published in the following formats:
   - Canonical, open-source version  
 - **PDF:** `ai-capability-overview.pdf`  
   - Formatted, reader-friendly edition  
-- **Word:** `ai-capability-overview.docx`  
-  - Provided for educational adaptation and institutional reuse  
 
 ---
 
