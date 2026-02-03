@@ -116,8 +116,6 @@ This book is published in the following formats:
   - Canonical, open-source version  
 - **PDF:** `reflection-learning-renewal.pdf`  
   - Formatted, reader-friendly edition  
-- **Word:** `reflection-learning-renewal.docx`  
-  - Provided for educational adaptation and institutional reuse  
 
 ---
 
