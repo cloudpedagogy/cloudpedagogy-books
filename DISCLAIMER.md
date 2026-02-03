@@ -11,3 +11,6 @@ Nothing in this repository should be interpreted as replacing professional judge
 The views expressed are those of the author and do not necessarily reflect the positions of any affiliated institutions or organisations.
 
 Use, reuse, and adaptation of the materials are governed by the applicable licence terms.
+
+This disclaimer applies to all books, documents, and materials contained within this repository unless otherwise stated.
+
