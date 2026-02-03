@@ -70,8 +70,6 @@ This book is published in the following formats:
 - **Markdown**: `generative-ai-ethics.md` (canonical, open source text)
 - **PDF**: `generative-ai-ethics.pdf` (formatted, reader-friendly edition)
 
-A Word version may be provided for educational adaptation.
-
 ---
 
 ## Licence
