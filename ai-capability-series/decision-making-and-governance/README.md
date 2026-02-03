@@ -113,8 +113,6 @@ This book is published in the following formats:
   - Canonical, open-source version  
 - **PDF:** `decision-making-and-governance.pdf`  
   - Formatted, reader-friendly edition  
-- **Word:** `decision-making-and-governance.docx`  
-  - Provided for institutional adaptation and governance use  
 
 ---
 
