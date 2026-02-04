@@ -1,5 +1,7 @@
-# Generative AI Ethics
+# Generative AI Ethics  
 An open-access book published by CloudPedagogy.
+
+---
 
 ## Overview
 
@@ -13,53 +15,51 @@ This book forms part of the **CloudPedagogy** ecosystem of open educational and 
 
 ## Scope and Themes
 
-The book covers:
+The book addresses:
 
-- What makes generative AI ethically distinct from earlier forms of AI
-- Misinformation, truth, and epistemic risk
-- Bias, fairness, and representation
-- Privacy, data ownership, and consent
-- Labour, creativity, and the future of work
-- Human autonomy and agency
-- Policy, regulation, and institutional responsibility
-- Global and cross-cultural perspectives
-- Ethical system design and education
-- Futures of generative AI ethics and shared responsibility
+- What makes generative AI ethically distinct from earlier forms of AI  
+- Truth, misinformation, and epistemic risk  
+- Bias, fairness, and representation  
+- Privacy, data ownership, and consent  
+- Labour, creativity, and the future of work  
+- Human autonomy, agency, and responsibility  
+- Policy, regulation, and institutional governance  
+- Cross-cultural and Global South perspectives  
+- Ethical system design and public engagement  
+- Futures of generative AI ethics and shared responsibility  
 
 ---
 
 ## Structure (Table of Contents)
 
-- Introduction: Why Ethics Matters in the GenAI Era  
-- Why This Book: Urgency, Complexity, Responsibility  
-- Who the Book Is For  
-- Roadmap of the Book  
+### Introduction
+- **Introduction: Why Ethics Matters in the GenAI Era**  
+- **Why This Book: Urgency, Complexity, Responsibility**
 
-**Chapters**
-1. What Is Generative AI?  
-2. The Power and Peril of Generation  
-3. Ethics Foundations for AI  
-4. Truth and Misinformation  
-5. Bias, Fairness, and Representation  
-6. Privacy and Data Ownership  
-7. Labour, Creativity, and the Future of Work  
-8. Human Autonomy and Agency  
-9. Policy and Regulation of Generative AI  
-10. Institutions and Organisational Responsibility  
-11. Cross-Cultural and Global South Perspectives  
-12. Designing Ethical Systems  
-13. Education, Literacy, and Public Engagement  
-14. Co-Creation and Human–AI Partnerships  
-15. Futures of Generative AI Ethics  
-16. Shared Responsibility in the Age of Generative AI  
+### Chapters
 
-**Back Matter**
-- How to Cite This Book  
-- Supplementary Material  
-- Timeline of Generative AI Milestones  
-- International Frameworks and Declarations on AI Ethics  
-- Reflection Questions  
-- Suggested Further Reading  
+1. **What Is Generative AI?**  
+2. **The Power and Peril of Generation**  
+3. **Ethics Foundations for AI**  
+4. **Truth and Misinformation**  
+5. **Bias, Fairness, and Representation**  
+6. **Privacy and Data Ownership**  
+7. **Labour, Creativity, and the Future of Work**  
+8. **Human Autonomy and Agency**  
+9. **Policy and Regulation of Generative AI**  
+10. **Institutions and Organisational Responsibility**  
+11. **Cross-Cultural and Global South Perspectives**  
+12. **Designing Ethical Systems**  
+13. **Education, Literacy, and Public Engagement**  
+14. **Co-Creation and Human–AI Partnerships**  
+15. **Futures of Generative AI Ethics**  
+16. **Shared Responsibility in the Age of Generative AI**
+
+### Back Matter
+- **How to Cite This Book**  
+- **Supplementary Material**  
+- **Timeline of Generative AI Milestones**  
+- **Reflection Questions**
 
 ---
 
@@ -67,14 +67,22 @@ The book covers:
 
 This book is published in the following formats:
 
-- **Markdown**: `generative-ai-ethics.md` (canonical, open source text)
-- **PDF**: `generative-ai-ethics.pdf` (formatted, reader-friendly edition)
+- **Markdown**  
+  `generative-ai-ethics.md`  
+  Canonical, open-source version of the text.
+
+- **PDF**  
+  `generative-ai-ethics.pdf`  
+  Formatted, reader-friendly edition for reading and citation.
+
+If differences arise, the Markdown version is authoritative.
 
 ---
 
 ## Licence
 
-This work is licensed under the **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** licence.
+This work is licensed under the  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** licence.
 
 You are free to share and adapt the material for non-commercial purposes, provided appropriate attribution is given and derivative works are licensed under the same terms.
 
@@ -82,7 +90,7 @@ You are free to share and adapt the material for non-commercial purposes, provid
 
 ## How to Cite
 
-Citation guidance is provided within the book under *How to Cite This Book*.
+Citation guidance is provided within the book under **How to Cite This Book**.
 
 ---
 
@@ -95,7 +103,9 @@ For full licensing and disclaimer terms, see the repository root README.
 
 ## About CloudPedagogy
 
-CloudPedagogy develops open, governance-aware resources for building responsible AI capability across education, research, and public service. This book complements the CloudPedagogy AI Capability Framework and related tools, courses, and infrastructure.
+CloudPedagogy develops open, governance-aware resources for building responsible AI capability across education, research, and public service.
+
+This book complements the **CloudPedagogy AI Capability Framework** and related tools, courses, and infrastructure.
 
 ---
 
