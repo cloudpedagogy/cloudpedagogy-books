@@ -11,339 +11,6 @@ CloudPedagogy**
 
 **DOI: https://doi.org/10.5281/zenodo.18916765\**
 
-# Table of Contents {#table-of-contents .TOC-Heading}
-
-[Preface [5](#preface)](#preface)
-
-[ACT I [10](#_62tzdutfzmi3)](#_62tzdutfzmi3)
-
-[The Hidden Governance Crisis
-[10](#the-hidden-governance-crisis)](#the-hidden-governance-crisis)
-
-[Chapter 1 --- The Intelligence Transition
-[11](#_csy1vwk8hzs7)](#_csy1vwk8hzs7)
-
-[**AI is transforming how decisions are made in professional
-environments**
-[11](#ai-is-transforming-how-decisions-are-made-in-professional-environments)](#ai-is-transforming-how-decisions-are-made-in-professional-environments)
-
-[**The shift from information systems to intelligence systems**
-[14](#the-shift-from-information-systems-to-intelligence-systems)](#the-shift-from-information-systems-to-intelligence-systems)
-
-[**Hybrid intelligence: humans and machines collaborating in decision
-processes**
-[18](#hybrid-intelligence-humans-and-machines-collaborating-in-decision-processes)](#hybrid-intelligence-humans-and-machines-collaborating-in-decision-processes)
-
-[Chapter 2 --- The Illusion of AI Governance
-[23](#_wnmuhnl3dvc3)](#_wnmuhnl3dvc3)
-
-[**The rise of AI ethics frameworks and policy guidelines**
-[23](#the-rise-of-ai-ethics-frameworks-and-policy-guidelines)](#the-rise-of-ai-ethics-frameworks-and-policy-guidelines)
-
-[**Why governance approaches focus on rules rather than decision
-systems**
-[26](#why-governance-approaches-focus-on-rules-rather-than-decision-systems)](#why-governance-approaches-focus-on-rules-rather-than-decision-systems)
-
-[**Why policies alone cannot govern human--AI collaboration**
-[30](#why-policies-alone-cannot-govern-humanai-collaboration)](#why-policies-alone-cannot-govern-humanai-collaboration)
-
-[Chapter 3 --- The Invisible AI Problem
-[34](#_dosom7lt7y7j)](#_dosom7lt7y7j)
-
-[**How AI quietly influences professional decisions**
-[34](#how-ai-quietly-influences-professional-decisions)](#how-ai-quietly-influences-professional-decisions)
-
-[**Why invisible AI influence undermines accountability**
-[37](#why-invisible-ai-influence-undermines-accountability)](#why-invisible-ai-influence-undermines-accountability)
-
-[**The emerging transparency problem in institutional decision systems**
-[41](#the-emerging-transparency-problem-in-institutional-decision-systems)](#the-emerging-transparency-problem-in-institutional-decision-systems)
-
-[Chapter 4 --- When Human--AI Systems Fail
-[45](#_67mxxdranbsy)](#_67mxxdranbsy)
-
-[**Why intelligent systems fail even when the technology works**
-[45](#why-intelligent-systems-fail-even-when-the-technology-works)](#why-intelligent-systems-fail-even-when-the-technology-works)
-
-[**The difference between technical failure and system failure**
-[48](#the-difference-between-technical-failure-and-system-failure)](#the-difference-between-technical-failure-and-system-failure)
-
-[**Preview of the failure modes of human--AI decision systems**
-[51](#preview-of-the-failure-modes-of-humanai-decision-systems)](#preview-of-the-failure-modes-of-humanai-decision-systems)
-
-[Chapter 5 --- The Governance Gap [56](#_ljrs6eb8tx1)](#_ljrs6eb8tx1)
-
-[**Why traditional governance systems were built for human
-decision-making**
-[56](#why-traditional-governance-systems-were-built-for-human-decision-making)](#why-traditional-governance-systems-were-built-for-human-decision-making)
-
-[**Why AI disrupts existing governance models**
-[59](#why-ai-disrupts-existing-governance-models)](#why-ai-disrupts-existing-governance-models)
-
-[**Introducing the discipline of Human--AI Governance Engineering**
-[62](#introducing-the-discipline-of-humanai-governance-engineering)](#introducing-the-discipline-of-humanai-governance-engineering)
-
-[ACT II [67](#_nis5y67zjkpq)](#_nis5y67zjkpq)
-
-[Foundations of the Discipline
-[67](#foundations-of-the-discipline)](#foundations-of-the-discipline)
-
-[Chapter 6 --- Intelligence Systems
-[68](#_zg7av29cfv5h)](#_zg7av29cfv5h)
-
-[**Understanding socio-technical intelligence systems**
-[68](#understanding-socio-technical-intelligence-systems)](#understanding-socio-technical-intelligence-systems)
-
-[**How humans, machines, and institutions shape decisions**
-[71](#how-humans-machines-and-institutions-shape-decisions)](#how-humans-machines-and-institutions-shape-decisions)
-
-[**Why governance must address the entire decision system**
-[76](#why-governance-must-address-the-entire-decision-system)](#why-governance-must-address-the-entire-decision-system)
-
-[Chapter 7 --- The Three Laws of Human--AI Governance Engineering
-[80](#chapter-7-the-three-laws-of-humanai-governance-engineering)](#chapter-7-the-three-laws-of-humanai-governance-engineering)
-
-[**Law 1: Accountability must remain human**
-[80](#law-1-accountability-must-remain-human)](#law-1-accountability-must-remain-human)
-
-[**Law 2: AI influence must be visible** [84](#section-2)](#section-2)
-
-[**Law 3: Human capability must be strengthened**
-[87](#law-3-human-capability-must-be-strengthened)](#law-3-human-capability-must-be-strengthened)
-
-[Chapter 8 --- The Ten Core Ideas of Human--AI Governance Engineering
-[92](#_rtfnr2f2yrpe)](#_rtfnr2f2yrpe)
-
-[**Intelligence systems are socio-technical**
-[92](#intelligence-systems-are-socio-technical)](#intelligence-systems-are-socio-technical)
-
-[**Decisions emerge from systems, not algorithms**
-[95](#decisions-emerge-from-systems-not-algorithms)](#decisions-emerge-from-systems-not-algorithms)
-
-[**Human responsibility must remain central**
-[99](#human-responsibility-must-remain-central)](#human-responsibility-must-remain-central)
-
-[**Invisible AI is a governance risk**
-[102](#invisible-ai-is-a-governance-risk)](#invisible-ai-is-a-governance-risk)
-
-[**Governance must be embedded in workflows**
-[106](#governance-must-be-embedded-in-workflows)](#governance-must-be-embedded-in-workflows)
-
-[**Human--AI collaboration requires designed roles**
-[109](#humanai-collaboration-requires-designed-roles)](#humanai-collaboration-requires-designed-roles)
-
-[**Capability is the primary safeguard**
-[113](#capability-is-the-primary-safeguard)](#capability-is-the-primary-safeguard)
-
-[**Reasoning must be inspectable**
-[116](#reasoning-must-be-inspectable)](#reasoning-must-be-inspectable)
-
-[**Governance must enable learning**
-[119](#governance-must-enable-learning)](#governance-must-enable-learning)
-
-[**The future depends on institutional design**
-[123](#_be5l6wkwz703)](#_be5l6wkwz703)
-
-[Chapter 9 --- The Seven Failure Modes of Human--AI Systems
-[127](#_ys30beplgc9i)](#_ys30beplgc9i)
-
-[**Automation drift** [127](#automation-drift)](#automation-drift)
-
-[**Invisible AI influence**
-[130](#invisible-ai-influence)](#invisible-ai-influence)
-
-[**Authority illusion** [133](#authority-illusion)](#authority-illusion)
-
-[**Context collapse** [137](#context-collapse)](#context-collapse)
-
-[**Responsibility diffusion**
-[140](#responsibility-diffusion)](#responsibility-diffusion)
-
-[**Documentation void** [143](#documentation-void)](#documentation-void)
-
-[**Capability erosion** [147](#_afyehcuvb19m)](#_afyehcuvb19m)
-
-[Chapter 10 --- The Six Professional Roles in Human--AI Systems
-[151](#_oeryxbxvg7ju)](#_oeryxbxvg7ju)
-
-[**The Problem Framer** [151](#the-problem-framer)](#the-problem-framer)
-
-[**The Intelligence Augmenter**
-[154](#the-intelligence-augmenter)](#the-intelligence-augmenter)
-
-[**The Critical Interpreter**
-[157](#the-critical-interpreter)](#the-critical-interpreter)
-
-[**The Decision Authority**
-[161](#the-decision-authority)](#the-decision-authority)
-
-[**The Process Steward**
-[164](#the-process-steward)](#the-process-steward)
-
-[**The Capability Developer**
-[167](#the-capability-developer)](#the-capability-developer)
-
-[Chapter 11 --- Capability as the Foundation of Governance
-[171](#_o5ar42qk8r05)](#_o5ar42qk8r05)
-
-[**Why governance cannot rely solely on rules**
-[171](#why-governance-cannot-rely-solely-on-rules)](#why-governance-cannot-rely-solely-on-rules)
-
-[**Professional judgement in the age of AI**
-[174](#professional-judgement-in-the-age-of-ai)](#professional-judgement-in-the-age-of-ai)
-
-[**Building capability-driven institutions**
-[178](#building-capability-driven-institutions)](#building-capability-driven-institutions)
-
-[ACT III [182](#act-iii)](#act-iii)
-
-[Engineering Human--AI Governance Systems
-[182](#engineering-humanai-governance-systems)](#engineering-humanai-governance-systems)
-
-[Chapter 12 --- The Human--AI Governance Stack
-[183](#_9il45bpomyin)](#_9il45bpomyin)
-
-[**The Capability Layer**
-[183](#the-capability-layer)](#the-capability-layer)
-
-[**The Workflow Layer** [186](#the-workflow-layer)](#the-workflow-layer)
-
-[**The Institutional Layer**
-[189](#the-institutional-layer)](#the-institutional-layer)
-
-[Chapter 13 --- The Five Design Principles
-[194](#_hiwt7qhhiv6)](#_hiwt7qhhiv6)
-
-[**Preserving Human Accountability**
-[194](#preserving-human-accountability)](#preserving-human-accountability)
-
-[**Ensuring AI Transparency**
-[197](#ensuring-ai-transparency)](#ensuring-ai-transparency)
-
-[**Maintaining Decision Traceability**
-[200](#maintaining-decision-traceability)](#maintaining-decision-traceability)
-
-[**Supporting Human Judgement**
-[203](#supporting-human-judgement)](#supporting-human-judgement)
-
-[**Enabling Continuous Learning**
-[206](#enabling-continuous-learning)](#enabling-continuous-learning)
-
-[Chapter 14 --- The Human--AI Decision Cycle
-[210](#_uqmq3ssbwqqi)](#_uqmq3ssbwqqi)
-
-[**Framing the Problem**
-[210](#framing-the-problem)](#framing-the-problem)
-
-[**AI Augmentation** [213](#ai-augmentation)](#ai-augmentation)
-
-[**Human Interpretation**
-[216](#human-interpretation)](#human-interpretation)
-
-[**Human Judgement** [219](#human-judgement-1)](#human-judgement-1)
-
-[**Documentation of Reasoning**
-[222](#documentation-of-reasoning)](#documentation-of-reasoning)
-
-[**Reflection and Learning**
-[225](#reflection-and-learning)](#reflection-and-learning)
-
-[Chapter 15 --- Designing Governance-Ready Workflows
-[229](#_1m7cbc9huckt)](#_1m7cbc9huckt)
-
-[**Embedding Governance Checkpoints**
-[229](#embedding-governance-checkpoints)](#embedding-governance-checkpoints)
-
-[**Designing Transparent Decision Processes**
-[232](#designing-transparent-decision-processes)](#designing-transparent-decision-processes)
-
-[**Building Organisational Workflow Systems**
-[235](#building-organisational-workflow-systems)](#building-organisational-workflow-systems)
-
-[Chapter 16 --- Decision Traceability and Inspectable Reasoning
-[239](#chapter-16-decision-traceability-and-inspectable-reasoning)](#chapter-16-decision-traceability-and-inspectable-reasoning)
-
-[**Why Traceability Matters**
-[239](#why-traceability-matters)](#why-traceability-matters)
-
-[**AI Decision Records**
-[242](#ai-decision-records)](#ai-decision-records)
-
-[**Governance Infrastructure**
-[245](#governance-infrastructure)](#governance-infrastructure)
-
-[Chapter 17 --- Capability-Driven Systems
-[249](#_xgls0nhq7exg)](#_xgls0nhq7exg)
-
-[**Introducing Capability-Driven Development**
-[249](#introducing-capability-driven-development)](#introducing-capability-driven-development)
-
-[**Designing Systems Around Human Capability**
-[252](#designing-systems-around-human-capability)](#designing-systems-around-human-capability)
-
-[**Building Learning Organisations**
-[255](#building-learning-organisations)](#building-learning-organisations)
-
-[ACT IV [259](#_5qkdk4gt60v5)](#_5qkdk4gt60v5)
-
-[The Future of Human--AI Institutions
-[259](#the-future-of-humanai-institutions)](#the-future-of-humanai-institutions)
-
-[Chapter 18 --- Hybrid Intelligence Organisations
-[260](#_8fwdvhdpfo9q)](#_8fwdvhdpfo9q)
-
-[**Organisations Combining Human and Machine Intelligence**
-[260](#organisations-combining-human-and-machine-intelligence)](#organisations-combining-human-and-machine-intelligence)
-
-[**Decision Ecosystems**
-[263](#decision-ecosystems)](#decision-ecosystems)
-
-[**Governance Implications**
-[266](#governance-implications)](#governance-implications)
-
-[Chapter 19 --- The Next Professional Revolution
-[271](#_uxkkqsvpt01f)](#_uxkkqsvpt01f)
-
-[**How Professions Evolve**
-[271](#how-professions-evolve)](#how-professions-evolve)
-
-[**New Forms of Expertise**
-[274](#new-forms-of-expertise)](#new-forms-of-expertise)
-
-[**The Rise of Governance Engineers**
-[277](#the-rise-of-governance-engineers)](#the-rise-of-governance-engineers)
-
-[Chapter 20 --- Designing Inspectable Societies
-[281](#_hj29pc1wgl2)](#_hj29pc1wgl2)
-
-[**Transparent Decision Systems**
-[281](#transparent-decision-systems)](#transparent-decision-systems)
-
-[**Public Trust and Institutional Accountability**
-[284](#public-trust-and-institutional-accountability)](#public-trust-and-institutional-accountability)
-
-[**Governance in AI-Driven Societies**
-[288](#governance-in-ai-driven-societies)](#governance-in-ai-driven-societies)
-
-[Chapter 21 --- The Discipline of Human--AI Governance Engineering
-[292](#_9tsp14xj38p4)](#_9tsp14xj38p4)
-
-[**Defining the Discipline**
-[292](#defining-the-discipline)](#defining-the-discipline)
-
-[**Research, Education, and Institutional Practice**
-[295](#research-education-and-institutional-practice)](#research-education-and-institutional-practice)
-
-[**The Future of Governance Engineering**
-[300](#the-future-of-governance-engineering)](#the-future-of-governance-engineering)
-
-[Afterword [305](#_xh4jeyfnur8a)](#_xh4jeyfnur8a)
-
-[**Governing Intelligence**
-[305](#governing-intelligence)](#governing-intelligence)
-
-**\**
-
 ## **Preface**
 
 Across many fields today, a quiet transformation is underway. Decisions
@@ -536,17 +203,17 @@ intelligence.
 The discipline introduced in this book is intended as a starting point
 for that work.
 
-[]{#_62tzdutfzmi3 .anchor}**\**
+
 
 # **ACT I**
 
 # **The Hidden Governance Crisis** 
 
-[]{#_csy1vwk8hzs7 .anchor}**\**
+
 
 # **Chapter 1 --- The Intelligence Transition** 
 
-###  ******AI is transforming how decisions are made in professional environments**
+###  **AI is transforming how decisions are made in professional environments**
 
 For most of modern professional history, decisions have been shaped by a
 relatively stable structure. A professional encounters a problem,
@@ -986,11 +653,11 @@ intelligence environments can be designed so that the collaboration
 between human judgement and machine intelligence remains transparent,
 accountable, and capable of supporting responsible decision-making.
 
-[]{#_wnmuhnl3dvc3 .anchor}**\**
+
 
 # **Chapter 2 --- The Illusion of AI Governance** 
 
-###  ******The rise of AI ethics frameworks and policy guidelines**
+###  **The rise of AI ethics frameworks and policy guidelines**
 
 As artificial intelligence has become more capable and more widely
 deployed, concerns about its potential impact have grown alongside its
@@ -1415,11 +1082,11 @@ reasoning visible.
 Recognising this shift---from policy to system design---marks an
 important step in the emergence of Human--AI Governance Engineering.
 
-[]{#_dosom7lt7y7j .anchor}**\**
+
 
 # **Chapter 3 --- The Invisible AI Problem** 
 
-###  ******How AI quietly influences professional decisions**
+###  **How AI quietly influences professional decisions**
 
 In many professional environments today, artificial intelligence is not
 experienced as a dramatic technological presence. It does not always
@@ -1862,9 +1529,9 @@ Understanding how those systems operate is essential for ensuring that
 decisions produced within hybrid intelligence environments remain
 accountable, reviewable, and worthy of institutional trust.
 
-[]{#_67mxxdranbsy .anchor}**Chapter 4 --- When Human--AI Systems Fail**
+**Chapter 4 --- When Human--AI Systems Fail**
 
-###  ******Why intelligent systems fail even when the technology works**
+###  **Why intelligent systems fail even when the technology works**
 
 When discussions about artificial intelligence focus on failure, the
 immediate assumption is often that something must have gone wrong with
@@ -2267,11 +1934,11 @@ systems involving both human judgement and machine intelligence can be
 designed so that their strengths reinforce one another while their
 vulnerabilities are carefully managed.
 
-[]{#_ljrs6eb8tx1 .anchor}**\**
+
 
 # **Chapter 5 --- The Governance Gap** 
 
-###  ******Why traditional governance systems were built for human decision-making**
+###  **Why traditional governance systems were built for human decision-making**
 
 Governance systems exist to ensure that decisions are made responsibly
 within institutions. They define how authority is exercised, how
@@ -2392,7 +2059,7 @@ Understanding why existing governance models were built around human
 decision-making is the first step toward recognising the **governance
 gap** that artificial intelligence introduces.
 
-###  ******Why AI disrupts existing governance models**
+###  **Why AI disrupts existing governance models**
 
 Traditional governance models function effectively when the structure of
 decision-making is relatively stable. Responsibility is assigned to
@@ -2535,7 +2202,7 @@ applied must evolve.
 The next section introduces a discipline intended to address this
 challenge: **Human--AI Governance Engineering**.
 
-###  ******Introducing the discipline of Human--AI Governance Engineering**
+###  **Introducing the discipline of Human--AI Governance Engineering**
 
 The emergence of artificial intelligence within professional decision
 environments has revealed a structural gap in existing governance
@@ -2676,17 +2343,17 @@ build more powerful machines. It is to ensure that the systems within
 which those machines operate remain worthy of the trust placed in
 professional and institutional decision-making.
 
-[]{#_nis5y67zjkpq .anchor}**\**
+
 
 # **ACT II**
 
 # **Foundations of the Discipline**
 
-[]{#_zg7av29cfv5h .anchor}**\**
+
 
 # **Chapter 6 --- Intelligence Systems** 
 
-###  ******Understanding socio-technical intelligence systems**
+###  **Understanding socio-technical intelligence systems**
 
 To understand how artificial intelligence should be governed, it is
 necessary to begin with a more fundamental question: **what kind of
@@ -3155,7 +2822,7 @@ of supporting trustworthy decisions.
 
 # **Chapter 7 --- The Three Laws of Human--AI Governance Engineering** 
 
-###  ******Law 1: Accountability must remain human**
+###  **Law 1: Accountability must remain human**
 
 The first law of Human--AI Governance Engineering is simple, but it
 carries profound implications for how intelligent systems must be
@@ -3310,7 +2977,7 @@ Responsibility must remain human.
 
 ###  ****
 
-**\**
+
 
 ### **Law 2: AI influence must be visible**
 
@@ -3460,7 +3127,7 @@ transparent.
 Human accountability requires that the influence of machine intelligence
 be visible.
 
-###  ******Law 3: Human capability must be strengthened**
+###  **Law 3: Human capability must be strengthened**
 
 The third law of Human--AI Governance Engineering addresses a risk that
 emerges gradually as intelligent systems become integrated into
@@ -3613,11 +3280,11 @@ but to extend it. Strengthening human capability ensures that hybrid
 intelligence environments fulfil that purpose rather than undermining
 it.
 
-[]{#_rtfnr2f2yrpe .anchor}**\**
+
 
 # **Chapter 8 --- The Ten Core Ideas of Human--AI Governance Engineering** 
 
-###  ******Intelligence systems are socio-technical**
+###  **Intelligence systems are socio-technical**
 
 The first core idea of Human--AI Governance Engineering establishes the
 conceptual foundation for understanding how artificial intelligence
@@ -3760,7 +3427,7 @@ institutions to move beyond narrow debates about algorithms and instead
 focus on designing decision environments in which human and machine
 intelligence can work together responsibly.
 
-###  ******Decisions emerge from systems, not algorithms**
+###  **Decisions emerge from systems, not algorithms**
 
 The second core idea of Human--AI Governance Engineering follows
 naturally from the first:
@@ -3904,7 +3571,7 @@ emerge from systems rather than algorithms, they can begin to design
 those systems in ways that preserve accountability, transparency, and
 responsible human judgement.
 
-###  ******Human responsibility must remain central**
+###  **Human responsibility must remain central**
 
 If decisions emerge from socio-technical systems rather than from
 algorithms alone, then a fundamental question follows: **who is
@@ -4863,7 +4530,7 @@ will be better positioned to harness the capabilities of hybrid
 intelligence while maintaining the standards of responsibility and trust
 that governance is meant to protect.
 
-[]{#_be5l6wkwz703 .anchor}**\**
+
 
 ### **The future depends on institutional design**
 
@@ -5009,7 +4676,7 @@ uncertainty and risk.
 In this sense, the future of AI is ultimately a question of
 **institutional design**.
 
-[]{#_ys30beplgc9i .anchor}**\**
+
 
 # **Chapter 9 --- The Seven Failure Modes of Human--AI Systems**
 
@@ -5816,7 +5483,7 @@ that void requires designing decision systems in which the influence of
 artificial intelligence remains visible within the records that support
 accountability, transparency, and institutional learning.
 
-[]{#_afyehcuvb19m .anchor}**\**
+
 
 ### **Capability erosion**
 
@@ -5950,7 +5617,7 @@ Governance Engineering seeks to maintain that balance by designing
 decision systems in which the development and preservation of human
 capability remain central to professional practice.
 
-[]{#_oeryxbxvg7ju .anchor}**\**
+
 
 # **Chapter 10 --- The Six Professional Roles in Human--AI Systems**
 
@@ -6740,11 +6407,11 @@ people within the system, the organisation preserves the human
 capability that ultimately anchors responsible human--AI
 decision-making.
 
-[]{#_o5ar42qk8r05 .anchor}**\**
+
 
 # **Chapter 11 --- Capability as the Foundation of Governance** 
 
-###  ******Why governance cannot rely solely on rules**
+###  **Why governance cannot rely solely on rules**
 
 In many institutions, governance is commonly understood as a system of
 **rules, policies, and procedures** designed to guide behaviour and
@@ -7187,11 +6854,11 @@ is built**.
 
 # **Engineering Human--AI Governance Systems** 
 
-[]{#_9il45bpomyin .anchor}**\**
+
 
 # **Chapter 12 --- The Human--AI Governance Stack** 
 
-###  ******The Capability Layer**
+###  **The Capability Layer**
 
 Human--AI governance systems do not begin with technology, rules, or
 organisational structures. They begin with **people who possess the
@@ -7596,11 +7263,11 @@ discipline, and institutional accountability, organisations can ensure
 that human--AI collaboration strengthens rather than undermines
 responsible professional practice.
 
-[]{#_hiwt7qhhiv6 .anchor}**\**
+
 
 # **Chapter 13 --- The Five Design Principles** 
 
-###  ******Preserving Human Accountability**
+###  **Preserving Human Accountability**
 
 The first design principle of Human--AI Governance Engineering is simple
 but fundamental: **human accountability must remain at the centre of
@@ -8231,11 +7898,11 @@ Through continuous learning, organisations ensure that human--AI
 governance remains not only effective in the present but resilient in
 the face of future technological change.
 
-[]{#_uqmq3ssbwqqi .anchor}**\**
+
 
 # **Chapter 14 --- The Human--AI Decision Cycle** 
 
-###  ******Framing the Problem**
+###  **Framing the Problem**
 
 Every decision begins with a question. Before analysis takes place,
 before evidence is examined, and before intelligent systems are
@@ -8987,11 +8654,11 @@ not merely a process for making decisions but a mechanism through which
 organisations **continuously develop their capacity for responsible
 human--AI governance**.
 
-[]{#_1m7cbc9huckt .anchor}**\**
+
 
 # **Chapter 15 --- Designing Governance-Ready Workflows**
 
-###  ******Embedding Governance Checkpoints**
+###  **Embedding Governance Checkpoints**
 
 For human--AI decision systems to remain accountable, governance cannot
 exist only in policies, guidelines, or oversight committees. It must be
@@ -9387,7 +9054,7 @@ time.
 
 # **Chapter 16 --- Decision Traceability and Inspectable Reasoning** 
 
-###  ******Why Traceability Matters**
+###  **Why Traceability Matters**
 
 Modern institutions depend on the ability to understand how decisions
 are made. In fields such as healthcare, research, finance, and public
@@ -9761,11 +9428,11 @@ examine how decisions are made, learn from experience, and refine the
 governance systems that guide their interaction with increasingly
 powerful forms of machine intelligence.
 
-[]{#_xgls0nhq7exg .anchor}**\**
+
 
 # **Chapter 17 --- Capability-Driven Systems** 
 
-###  ******Introducing Capability-Driven Development**
+###  **Introducing Capability-Driven Development**
 
 As artificial intelligence becomes embedded in professional
 environments, institutions face a fundamental design challenge.
@@ -10155,17 +9822,17 @@ develop the capacity to govern increasingly complex forms of human--AI
 collaboration while preserving the accountability, transparency, and
 professional judgement that responsible decision-making requires.
 
-[]{#_5qkdk4gt60v5 .anchor}**\**
+
 
 # **ACT IV**
 
 # **The Future of Human--AI Institutions** 
 
-[]{#_8fwdvhdpfo9q .anchor}**\**
+
 
 # **Chapter 18 --- Hybrid Intelligence Organisations**
 
-###  ******Organisations Combining Human and Machine Intelligence**
+###  **Organisations Combining Human and Machine Intelligence**
 
 Throughout much of the twentieth century, organisations were designed
 around human cognition. Institutions such as universities, hospitals,
@@ -10574,11 +10241,11 @@ require governance systems capable of maintaining transparency,
 accountability, and human responsibility within increasingly
 sophisticated decision ecosystems.
 
-[]{#_uxkkqsvpt01f .anchor}**\**
+
 
 # **Chapter 19 --- The Next Professional Revolution**
 
-###  ******How Professions Evolve**
+###  **How Professions Evolve**
 
 Professions have always evolved in response to changes in knowledge,
 technology, and social organisation. What defines a profession at any
@@ -10960,11 +10627,11 @@ In this sense, the rise of governance engineers marks the emergence of a
 new profession dedicated to the **engineering of responsible human--AI
 decision systems**.
 
-[]{#_hj29pc1wgl2 .anchor}**\**
+
 
 # **Chapter 20 --- Designing Inspectable Societies** 
 
-###  ******Transparent Decision Systems**
+###  **Transparent Decision Systems**
 
 As artificial intelligence becomes embedded within the decision
 processes of modern institutions, a fundamental question emerges: **how
@@ -11381,11 +11048,11 @@ replacement of human governance but rather the **evolution of governance
 systems capable of guiding increasingly intelligent decision
 environments**.
 
-[]{#_9tsp14xj38p4 .anchor}**\**
+
 
 # **Chapter 21 --- The Discipline of Human--AI Governance Engineering** 
 
-###  ******Defining the Discipline**
+###  **Defining the Discipline**
 
 Throughout this book, a central argument has gradually emerged: the
 challenge of artificial intelligence is not only technological but
@@ -11731,7 +11398,7 @@ capability without undermining responsibility.
 Several developments are likely to shape the evolution of this
 discipline.
 
-**\**
+
 
 #### Governance as System Design
 
@@ -11872,7 +11539,7 @@ The future of artificial intelligence will depend not only on what
 machines can do, but on **how wisely humans design the institutions that
 guide their use**.
 
-[]{#_xh4jeyfnur8a .anchor}**\**
+
 
 # **Afterword** 
 
