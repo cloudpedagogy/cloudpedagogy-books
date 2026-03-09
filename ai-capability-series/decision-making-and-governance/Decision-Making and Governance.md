@@ -22,7 +22,7 @@
 
 ## 
 
-# Table of Contents {#table-of-contents .TOC-Heading}
+# Table of Contents 
 
 [Decision-Making and Governance
 [1](#decision-making-and-governance)](#decision-making-and-governance)
