@@ -10,7 +10,7 @@
 
 ### 
 
-# Table of Contents {#table-of-contents .TOC-Heading}
+# Table of Contents 
 
 [Jonathan Wong [1](#jonathan-wong)](#jonathan-wong)
 
