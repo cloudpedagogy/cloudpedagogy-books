@@ -483,7 +483,7 @@ This challenge lies at the heart of the discipline introduced in this book. Huma
 
 # **Chapter 2 — The Illusion of AI Governance** 
 
-###  The rise of AI ethics frameworks and policy guidelines**
+###  The rise of AI ethics frameworks and policy guidelines
 
 As artificial intelligence has become more capable and more widely deployed, concerns about its potential impact have grown alongside its adoption. Governments, universities, corporations, and international organisations have all recognised that systems capable of generating analysis, predictions, and decisions raise important questions about responsibility, fairness, transparency, and societal impact. In response, a large body of guidance has emerged aimed at ensuring that artificial intelligence is used responsibly.
 
@@ -787,9 +787,11 @@ The broader implication is that transparency in hybrid intelligence environments
 
 Understanding how those systems operate is essential for ensuring that decisions produced within hybrid intelligence environments remain accountable, reviewable, and worthy of institutional trust.
 
-<span id="_67mxxdranbsy" class="anchor"></span>**Chapter 4 — When Human–AI Systems Fail**
+<span id="_67mxxdranbsy" class="anchor"></span>
 
-###  Why intelligent systems fail even when the technology works**
+# **Chapter 4 — When Human–AI Systems Fail**
+
+###  Why intelligent systems fail even when the technology works
 
 When discussions about artificial intelligence focus on failure, the immediate assumption is often that something must have gone wrong with the technology itself. A model may produce an incorrect output, a dataset may contain bias, or a system may misinterpret information in a way that leads to an undesirable result. In these cases, the failure appears to be technical. The system did not perform as expected, and the solution seems straightforward: improve the model, refine the training data, or adjust the algorithm.
 
@@ -1017,7 +1019,7 @@ Recognising this shift reveals the gap that artificial intelligence has created 
 
 The next section introduces a discipline intended to address this challenge: **Human–AI Governance Engineering**.
 
-###  Introducing the discipline of Human–AI Governance Engineering**
+###  Introducing the discipline of Human–AI Governance Engineering
 
 The emergence of artificial intelligence within professional decision environments has revealed a structural gap in existing governance approaches. Institutions possess ethical frameworks, regulatory policies, and professional standards intended to guide responsible behaviour. These instruments articulate important principles, yet they were developed for a world in which the core act of reasoning belonged entirely to human professionals.
 
@@ -1531,7 +1533,7 @@ Governance must address the behaviour of those systems as a whole.
 
 Recognising the socio-technical nature of intelligence systems allows institutions to move beyond narrow debates about algorithms and instead focus on designing decision environments in which human and machine intelligence can work together responsibly.
 
-###  Decisions emerge from systems, not algorithms**
+###  Decisions emerge from systems, not algorithms
 
 The second core idea of Human–AI Governance Engineering follows naturally from the first:
 
@@ -1591,7 +1593,7 @@ The key question becomes not “What did the algorithm decide?” but **“How d
 
 This shift in perspective is essential for developing governance structures capable of managing the complexities introduced by hybrid intelligence environments. When institutions recognise that decisions emerge from systems rather than algorithms, they can begin to design those systems in ways that preserve accountability, transparency, and responsible human judgement.
 
-###  Human responsibility must remain central**
+###  Human responsibility must remain central
 
 If decisions emerge from socio-technical systems rather than from algorithms alone, then a fundamental question follows: **who is responsible for the outcomes those systems produce?**
 
@@ -2769,7 +2771,7 @@ In this way, the Capability Developer ensures that the decision system remains r
 
 # **Chapter 11 — Capability as the Foundation of Governance** 
 
-###  Why governance cannot rely solely on rules**
+###  Why governance cannot rely solely on rules
 
 In many institutions, governance is commonly understood as a system of **rules, policies, and procedures** designed to guide behaviour and prevent harmful outcomes. These structures play an important role in professional environments. Rules establish boundaries for acceptable conduct, clarify responsibilities, and provide mechanisms for oversight and accountability.
 
@@ -2965,7 +2967,7 @@ It becomes the **foundation upon which responsible human–AI governance is buil
 
 # **Chapter 12 — The Human–AI Governance Stack** 
 
-###  The Capability Layer**
+###  The Capability Layer
 
 Human–AI governance systems do not begin with technology, rules, or organisational structures. They begin with **people who possess the capability to work responsibly with intelligent systems**. For this reason, the foundation of the Human–AI Governance Stack is the **capability layer**.
 
