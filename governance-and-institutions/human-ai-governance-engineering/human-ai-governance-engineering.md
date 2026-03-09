@@ -242,7 +242,7 @@ DOI: https://doi.org/10.5281/zenodo.18916765
 
 [**Governing Intelligence** [305](#governing-intelligence)](#governing-intelligence)
 
-**  **
+
 
 ## **Preface**
 
@@ -329,13 +329,13 @@ The future of AI will not be determined solely by advances in technology. It wil
 
 The discipline introduced in this book is intended as a starting point for that work.
 
-<span id="_62tzdutfzmi3" class="anchor"></span>**  **
+<span id="_62tzdutfzmi3" class="anchor"></span>
 
 # **ACT I**
 
 # **The Hidden Governance Crisis** 
 
-<span id="_csy1vwk8hzs7" class="anchor"></span>**  **
+<span id="_csy1vwk8hzs7" class="anchor"></span>
 
 # **Chapter 1 — The Intelligence Transition** 
 
@@ -479,7 +479,7 @@ The question is no longer simply how artificial intelligence should be developed
 
 This challenge lies at the heart of the discipline introduced in this book. Human–AI Governance Engineering seeks to understand how hybrid intelligence environments can be designed so that the collaboration between human judgement and machine intelligence remains transparent, accountable, and capable of supporting responsible decision-making.
 
-<span id="_wnmuhnl3dvc3" class="anchor"></span>**  **
+<span id="_wnmuhnl3dvc3" class="anchor"></span>
 
 # **Chapter 2 — The Illusion of AI Governance** 
 
@@ -625,7 +625,7 @@ In this sense, the challenge of governing artificial intelligence is not primari
 
 Recognising this shift—from policy to system design—marks an important step in the emergence of Human–AI Governance Engineering.
 
-<span id="_dosom7lt7y7j" class="anchor"></span>**  **
+<span id="_dosom7lt7y7j" class="anchor"></span>
 
 # **Chapter 3 — The Invisible AI Problem** 
 
@@ -923,7 +923,7 @@ Recognising these patterns marks an important step toward a more systematic appr
 
 This insight leads directly to the discipline introduced in this book. Human–AI Governance Engineering seeks to understand how decision systems involving both human judgement and machine intelligence can be designed so that their strengths reinforce one another while their vulnerabilities are carefully managed.
 
-<span id="_ljrs6eb8tx1" class="anchor"></span>**  **
+<span id="_ljrs6eb8tx1" class="anchor"></span>
 
 # **Chapter 5 — The Governance Gap** 
 
@@ -1071,13 +1071,13 @@ The chapters that follow explore the principles, concepts, and system architectu
 
 The challenge introduced by artificial intelligence is not simply to build more powerful machines. It is to ensure that the systems within which those machines operate remain worthy of the trust placed in professional and institutional decision-making.
 
-<span id="_nis5y67zjkpq" class="anchor"></span>**  **
+<span id="_nis5y67zjkpq" class="anchor"></span>
 
 # **ACT II**
 
 # **Foundations of the Discipline**
 
-<span id="_zg7av29cfv5h" class="anchor"></span>**  **
+<span id="_zg7av29cfv5h" class="anchor"></span>
 
 # **Chapter 6 — Intelligence Systems** 
 
@@ -1341,7 +1341,7 @@ Responsibility must remain human.
 
 ###  ****
 
-**  **
+
 
 ### **Law 2: AI influence must be visible**
 
@@ -1465,7 +1465,7 @@ If accountability must remain human, and if the influence of artificial intellig
 
 The purpose of intelligent systems is not to diminish human expertise but to extend it. Strengthening human capability ensures that hybrid intelligence environments fulfil that purpose rather than undermining it.
 
-<span id="_rtfnr2f2yrpe" class="anchor"></span>**  **
+<span id="_rtfnr2f2yrpe" class="anchor"></span>
 
 # **Chapter 8 — The Ten Core Ideas of Human–AI Governance Engineering** 
 
@@ -1975,7 +1975,7 @@ Human–AI Governance Engineering therefore treats learning as a central design 
 
 As artificial intelligence continues to reshape professional environments, institutions that learn from their own decision processes will be better positioned to harness the capabilities of hybrid intelligence while maintaining the standards of responsibility and trust that governance is meant to protect.
 
-<span id="_be5l6wkwz703" class="anchor"></span>**  **
+<span id="_be5l6wkwz703" class="anchor"></span>
 
 ### **The future depends on institutional design**
 
@@ -2033,7 +2033,7 @@ The design choices made by organisations today—about workflows, accountability
 
 In this sense, the future of AI is ultimately a question of **institutional design**.
 
-<span id="_ys30beplgc9i" class="anchor"></span>**  **
+<span id="_ys30beplgc9i" class="anchor"></span>
 
 # **Chapter 9 — The Seven Failure Modes of Human–AI Systems**
 
@@ -2371,7 +2371,7 @@ Artificial intelligence does not eliminate the need for documentation; it makes 
 
 A documentation void emerges when governance structures designed for human-only reasoning fail to adapt to this new environment. Preventing that void requires designing decision systems in which the influence of artificial intelligence remains visible within the records that support accountability, transparency, and institutional learning.
 
-<span id="_afyehcuvb19m" class="anchor"></span>**  **
+<span id="_afyehcuvb19m" class="anchor"></span>
 
 ### **Capability erosion**
 
@@ -2425,7 +2425,7 @@ Institutional culture is equally important. When organisations emphasise thought
 
 Capability erosion emerges when the balance between human expertise and machine assistance shifts too far toward automation. Human–AI Governance Engineering seeks to maintain that balance by designing decision systems in which the development and preservation of human capability remain central to professional practice.
 
-<span id="_oeryxbxvg7ju" class="anchor"></span>**  **
+<span id="_oeryxbxvg7ju" class="anchor"></span>
 
 # **Chapter 10 — The Six Professional Roles in Human–AI Systems**
 
@@ -2765,7 +2765,7 @@ As artificial intelligence evolves, new tools and analytical methods will emerge
 
 In this way, the Capability Developer ensures that the decision system remains resilient. By strengthening the skills and judgement of the people within the system, the organisation preserves the human capability that ultimately anchors responsible human–AI decision-making.
 
-<span id="_o5ar42qk8r05" class="anchor"></span>**  **
+<span id="_o5ar42qk8r05" class="anchor"></span>
 
 # **Chapter 11 — Capability as the Foundation of Governance** 
 
@@ -2961,7 +2961,7 @@ It becomes the **foundation upon which responsible human–AI governance is buil
 
 # **Engineering Human–AI Governance Systems** 
 
-<span id="_9il45bpomyin" class="anchor"></span>**  **
+<span id="_9il45bpomyin" class="anchor"></span>
 
 # **Chapter 12 — The Human–AI Governance Stack** 
 
@@ -3123,7 +3123,7 @@ When these three layers function together, organisations gain the ability to int
 
 Human–AI Governance Engineering therefore treats institutions not merely as users of technology but as **architects of decision systems**. By designing governance structures that integrate capability, workflow discipline, and institutional accountability, organisations can ensure that human–AI collaboration strengthens rather than undermines responsible professional practice.
 
-<span id="_hiwt7qhhiv6" class="anchor"></span>**  **
+<span id="_hiwt7qhhiv6" class="anchor"></span>
 
 # **Chapter 13 — The Five Design Principles** 
 
@@ -3379,7 +3379,7 @@ In such systems, governance becomes an **iterative process**: decisions are made
 
 Through continuous learning, organisations ensure that human–AI governance remains not only effective in the present but resilient in the face of future technological change.
 
-<span id="_uqmq3ssbwqqi" class="anchor"></span>**  **
+<span id="_uqmq3ssbwqqi" class="anchor"></span>
 
 # **Chapter 14 — The Human–AI Decision Cycle** 
 
@@ -3689,7 +3689,7 @@ Human–AI Governance Engineering therefore treats reflection and learning as es
 
 Through reflection and learning, the Human–AI Decision Cycle becomes not merely a process for making decisions but a mechanism through which organisations **continuously develop their capacity for responsible human–AI governance**.
 
-<span id="_1m7cbc9huckt" class="anchor"></span>**  **
+<span id="_1m7cbc9huckt" class="anchor"></span>
 
 # **Chapter 15 — Designing Governance-Ready Workflows**
 
@@ -4005,7 +4005,7 @@ Human–AI Governance Engineering therefore treats governance infrastructure not
 
 Through this infrastructure, institutions maintain the ability to examine how decisions are made, learn from experience, and refine the governance systems that guide their interaction with increasingly powerful forms of machine intelligence.
 
-<span id="_xgls0nhq7exg" class="anchor"></span>**  **
+<span id="_xgls0nhq7exg" class="anchor"></span>
 
 # **Chapter 17 — Capability-Driven Systems** 
 
@@ -4171,13 +4171,13 @@ Within Human–AI Governance Engineering, learning organisations represent the i
 
 Through this continuous cycle of reflection and adaptation, institutions develop the capacity to govern increasingly complex forms of human–AI collaboration while preserving the accountability, transparency, and professional judgement that responsible decision-making requires.
 
-<span id="_5qkdk4gt60v5" class="anchor"></span>**  **
+<span id="_5qkdk4gt60v5" class="anchor"></span>
 
 # **ACT IV**
 
 # **The Future of Human–AI Institutions** 
 
-<span id="_8fwdvhdpfo9q" class="anchor"></span>**  **
+<span id="_8fwdvhdpfo9q" class="anchor"></span>
 
 # **Chapter 18 — Hybrid Intelligence Organisations**
 
@@ -4354,7 +4354,7 @@ Human–AI Governance Engineering treats governance not merely as a set of regul
 
 Hybrid intelligence organisations therefore represent both an opportunity and a responsibility. They offer the potential to expand institutional understanding of complex environments, but they also require governance systems capable of maintaining transparency, accountability, and human responsibility within increasingly sophisticated decision ecosystems.
 
-<span id="_uxkkqsvpt01f" class="anchor"></span>**  **
+<span id="_uxkkqsvpt01f" class="anchor"></span>
 
 # **Chapter 19 — The Next Professional Revolution**
 
@@ -4506,7 +4506,7 @@ Their work reflects the central argument of this book: that the challenge of art
 
 In this sense, the rise of governance engineers marks the emergence of a new profession dedicated to the **engineering of responsible human–AI decision systems**.
 
-<span id="_hj29pc1wgl2" class="anchor"></span>**  **
+<span id="_hj29pc1wgl2" class="anchor"></span>
 
 # **Chapter 20 — Designing Inspectable Societies** 
 
@@ -4682,7 +4682,7 @@ When societies design decision systems that remain inspectable and accountable, 
 
 In this way, the emergence of AI-driven societies does not represent the replacement of human governance but rather the **evolution of governance systems capable of guiding increasingly intelligent decision environments**.
 
-<span id="_9tsp14xj38p4" class="anchor"></span>**  **
+<span id="_9tsp14xj38p4" class="anchor"></span>
 
 # **Chapter 21 — The Discipline of Human–AI Governance Engineering** 
 
@@ -4838,7 +4838,7 @@ Rather than reacting to technological change through regulation alone, instituti
 
 Several developments are likely to shape the evolution of this discipline.
 
-**  **
+
 
 #### Governance as System Design
 
@@ -4908,7 +4908,7 @@ Human–AI Governance Engineering thus represents more than a conceptual framewo
 
 The future of artificial intelligence will depend not only on what machines can do, but on **how wisely humans design the institutions that guide their use**.
 
-<span id="_xh4jeyfnur8a" class="anchor"></span>**  **
+<span id="_xh4jeyfnur8a" class="anchor"></span>
 
 # **Afterword** 
 
