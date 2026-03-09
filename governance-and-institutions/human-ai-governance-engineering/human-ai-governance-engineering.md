@@ -238,7 +238,7 @@ DOI: https://doi.org/10.5281/zenodo.18916765
 
 [**The Future of Governance Engineering** [300](#the-future-of-governance-engineering)](#the-future-of-governance-engineering)
 
-[Afterword [305](#_xh4jeyfnur8a)](#_xh4jeyfnur8a)
+[Afterword [305](#_xh4jeyfnur8a)]
 
 [**Governing Intelligence** [305](#governing-intelligence)](#governing-intelligence)
 
