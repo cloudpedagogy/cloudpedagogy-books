@@ -1,4 +1,4 @@
-##  ****Designing Responsible Human--AI Systems
+##  Designing Responsible Human--AI Systems
 
 ### A practical method for building governable AI-enabled systems
 
