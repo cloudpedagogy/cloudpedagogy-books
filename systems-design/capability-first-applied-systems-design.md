@@ -12,886 +12,6 @@ CloudPedagogy
 
 DOI: https://doi.org/10.5281/zenodo.19009936
 
-# Table of Contents {#table-of-contents .TOC-Heading}
-
-[Designing Responsible Human--AI Systems
-[1](#designing-responsible-humanai-systems)](#designing-responsible-humanai-systems)
-
-[A practical method for building governable AI-enabled systems
-[1](#a-practical-method-for-building-governable-ai-enabled-systems)](#a-practical-method-for-building-governable-ai-enabled-systems)
-
-[Preface [12](#preface)](#preface)
-
-[PART I [17](#_o2ytntbqj5e4)](#_o2ytntbqj5e4)
-
-[Why We Need Capability-Driven Development
-[17](#why-we-need-capability-driven-development)](#why-we-need-capability-driven-development)
-
-[Chapter 1 [18](#_mwh633ge945l)](#_mwh633ge945l)
-
-[The Hidden Failure of AI System Design
-[18](#the-hidden-failure-of-ai-system-design)](#the-hidden-failure-of-ai-system-design)
-
-[The Illusion of Technical Success
-[19](#the-illusion-of-technical-success)](#the-illusion-of-technical-success)
-
-[Automation Drift [20](#_4xuaeudksgsx)](#_4xuaeudksgsx)
-
-[Governance Gaps [21](#_6ab75saesde0)](#_6ab75saesde0)
-
-[Misplaced Trust in Algorithms [22](#_i4ob8rgjihek)](#_i4ob8rgjihek)
-
-[The Problem with "Human-in-the-Loop"
-[22](#the-problem-with-human-in-the-loop)](#the-problem-with-human-in-the-loop)
-
-[Capability Erosion [23](#capability-erosion)](#capability-erosion)
-
-[Chapter 2 [25](#_ywdybs9ptdk0)](#_ywdybs9ptdk0)
-
-[The Governance Gap in Modern AI Systems
-[25](#the-governance-gap-in-modern-ai-systems)](#the-governance-gap-in-modern-ai-systems)
-
-[The Governance Paradox
-[25](#the-governance-paradox)](#the-governance-paradox)
-
-[Ethics Added After Deployment
-[26](#ethics-added-after-deployment)](#ethics-added-after-deployment)
-
-[Compliance Detached from System Design
-[27](#compliance-detached-from-system-design)](#compliance-detached-from-system-design)
-
-[Architecture Without Accountability
-[28](#architecture-without-accountability)](#architecture-without-accountability)
-
-[The Limits of Policy-Based Governance
-[29](#the-limits-of-policy-based-governance)](#the-limits-of-policy-based-governance)
-
-[Governance as an Engineering Problem
-[30](#governance-as-an-engineering-problem)](#governance-as-an-engineering-problem)
-
-[Bridging Governance and System Design
-[31](#bridging-governance-and-system-design)](#bridging-governance-and-system-design)
-
-[Why This Matters Now
-[31](#why-this-matters-now)](#why-this-matters-now)
-
-[Chapter 3 [33](#_qvrl8bdbal7y)](#_qvrl8bdbal7y)
-
-[Capability as a Design Constraint
-[33](#capability-as-a-design-constraint)](#capability-as-a-design-constraint)
-
-[What Do We Mean by Capability?
-[34](#what-do-we-mean-by-capability)](#what-do-we-mean-by-capability)
-
-[Human Capability [34](#human-capability)](#human-capability)
-
-[Professional Capability
-[35](#professional-capability)](#professional-capability)
-
-[Institutional Capability
-[36](#institutional-capability)](#institutional-capability)
-
-[Professional Judgement as a Central Capability
-[37](#_fhedd94oe95n)](#_fhedd94oe95n)
-
-[The Relationship to the AI Capability Framework
-[37](#the-relationship-to-the-ai-capability-framework)](#the-relationship-to-the-ai-capability-framework)
-
-[Capability Before Automation
-[38](#capability-before-automation)](#capability-before-automation)
-
-[Core Principles of Capability-Driven Development
-[39](#core-principles-of-capability-driven-development)](#core-principles-of-capability-driven-development)
-
-[1. Capability Precedes Automation
-[39](#capability-precedes-automation)](#capability-precedes-automation)
-
-[2. Responsibility Must Remain Visible
-[39](#responsibility-must-remain-visible)](#responsibility-must-remain-visible)
-
-[3. Human Authority Must Be Structurally Preserved
-[40](#human-authority-must-be-structurally-preserved)](#human-authority-must-be-structurally-preserved)
-
-[4. Governance Must Be Embedded in System Design
-[40](#governance-must-be-embedded-in-system-design)](#governance-must-be-embedded-in-system-design)
-
-[5. Systems Must Remain Contestable and Revisable
-[40](#systems-must-remain-contestable-and-revisable)](#systems-must-remain-contestable-and-revisable)
-
-[6. Capability Should Strengthen Over Time
-[40](#capability-should-strengthen-over-time)](#capability-should-strengthen-over-time)
-
-[Capability as the Anchor of Responsible AI Systems
-[41](#capability-as-the-anchor-of-responsible-ai-systems)](#capability-as-the-anchor-of-responsible-ai-systems)
-
-[PART II [42](#part-ii)](#part-ii)
-
-[The Capability-Driven Development Method
-[42](#the-capability-driven-development-method)](#the-capability-driven-development-method)
-
-[Chapter 4 [43](#_53iqnr6qfcoq)](#_53iqnr6qfcoq)
-
-[Designing for Capability First
-[43](#designing-for-capability-first)](#designing-for-capability-first)
-
-[Why System Design Must Start with Capability
-[43](#why-system-design-must-start-with-capability)](#why-system-design-must-start-with-capability)
-
-[What Is Capability Intent? [45](#_1hgedw65opu2)](#_1hgedw65opu2)
-
-[Capability Intent as a Constraint
-[45](#capability-intent-as-a-constraint)](#capability-intent-as-a-constraint)
-
-[The Risks of Capability Erosion
-[46](#the-risks-of-capability-erosion)](#the-risks-of-capability-erosion)
-
-[Automation Expansion
-[46](#automation-expansion)](#automation-expansion)
-
-[Efficiency Optimisation
-[46](#efficiency-optimisation)](#efficiency-optimisation)
-
-[Interface Framing [47](#interface-framing)](#interface-framing)
-
-[Institutional Dependence
-[47](#institutional-dependence)](#institutional-dependence)
-
-[Defining Capability Intent
-[47](#defining-capability-intent)](#defining-capability-intent)
-
-[What capability does the system exist to support?
-[47](#what-capability-does-the-system-exist-to-support)](#what-capability-does-the-system-exist-to-support)
-
-[What capabilities must not be displaced?
-[48](#what-capabilities-must-not-be-displaced)](#what-capabilities-must-not-be-displaced)
-
-[What outcomes would indicate capability erosion?
-[48](#what-outcomes-would-indicate-capability-erosion)](#what-outcomes-would-indicate-capability-erosion)
-
-[Introducing the System Capability Brief
-[48](#introducing-the-system-capability-brief)](#introducing-the-system-capability-brief)
-
-[What the System Capability Brief Contains
-[49](#what-the-system-capability-brief-contains)](#what-the-system-capability-brief-contains)
-
-[System Context [49](#system-context)](#system-context)
-
-[Capability Purpose [49](#capability-purpose)](#capability-purpose)
-
-[Non-Negotiable Constraints
-[49](#non-negotiable-constraints)](#non-negotiable-constraints)
-
-[Capability Risks [50](#_ldnphe28zabp)](#_ldnphe28zabp)
-
-[Why the System Capability Brief Matters
-[50](#why-the-system-capability-brief-matters)](#why-the-system-capability-brief-matters)
-
-[Capability Intent in Practice
-[51](#capability-intent-in-practice)](#capability-intent-in-practice)
-
-[The First Step in Capability-Driven Development
-[51](#the-first-step-in-capability-driven-development)](#the-first-step-in-capability-driven-development)
-
-[Chapter 5 [53](#_37ojwltrhnvq)](#_37ojwltrhnvq)
-
-[Defining Human--AI Boundaries
-[53](#defining-humanai-boundaries)](#defining-humanai-boundaries)
-
-[Why Human--AI Boundaries Must Be Explicit
-[54](#_ee0gsini4unf)](#_ee0gsini4unf)
-
-[What Human--AI Boundaries Define
-[54](#what-humanai-boundaries-define)](#what-humanai-boundaries-define)
-
-[Authority: Who Has the Final Say?
-[55](#authority-who-has-the-final-say)](#authority-who-has-the-final-say)
-
-[Delegation: What Can AI Do? [56](#_ukk2p4hl45xs)](#_ukk2p4hl45xs)
-
-[Escalation: When Humans Must Intervene
-[57](#escalation-when-humans-must-intervene)](#escalation-when-humans-must-intervene)
-
-[Override: Preserving Human Authority
-[57](#override-preserving-human-authority)](#override-preserving-human-authority)
-
-[Why "Human-in-the-Loop" Is Not Enough
-[58](#why-human-in-the-loop-is-not-enough)](#why-human-in-the-loop-is-not-enough)
-
-[Common Boundary Failure Modes
-[59](#common-boundary-failure-modes)](#common-boundary-failure-modes)
-
-[Implicit Authority [59](#implicit-authority)](#implicit-authority)
-
-[Rubber-Stamping [59](#rubber-stamping)](#rubber-stamping)
-
-[Hidden Automation [59](#hidden-automation)](#hidden-automation)
-
-[Inaccessible Overrides
-[59](#inaccessible-overrides)](#inaccessible-overrides)
-
-[Escalation Avoidance
-[59](#escalation-avoidance)](#escalation-avoidance)
-
-[Introducing the Human--AI Boundary Map
-[60](#_qh76m6y5txr1)](#_qh76m6y5txr1)
-
-[Why the Boundary Map Matters [60](#_fotae3f7o8vo)](#_fotae3f7o8vo)
-
-[Boundaries as the Foundation of Responsible Systems
-[61](#boundaries-as-the-foundation-of-responsible-systems)](#boundaries-as-the-foundation-of-responsible-systems)
-
-[Chapter 6 [62](#_1ko0pjy3oyc1)](#_1ko0pjy3oyc1)
-
-[Designing for Ethics, Equity, and Risk
-[62](#designing-for-ethics-equity-and-risk)](#designing-for-ethics-equity-and-risk)
-
-[Ethics as a Design Input [63](#_c3isphy4yfy)](#_c3isphy4yfy)
-
-[Foreseeable Harm [63](#foreseeable-harm)](#foreseeable-harm)
-
-[Understanding Risk Distribution
-[64](#understanding-risk-distribution)](#understanding-risk-distribution)
-
-[Misuse and System Drift [65](#_fu6b4zmsmt6g)](#_fu6b4zmsmt6g)
-
-[Equity Impacts [66](#_88gliiz7szqm)](#_88gliiz7szqm)
-
-[Differential Access [66](#differential-access)](#differential-access)
-
-[Unequal Outcomes [66](#unequal-outcomes)](#unequal-outcomes)
-
-[Burden Shifting [66](#burden-shifting)](#burden-shifting)
-
-[Introducing the Risk and Misuse Register
-[67](#introducing-the-risk-and-misuse-register)](#introducing-the-risk-and-misuse-register)
-
-[Risk Description [67](#risk-description)](#risk-description)
-
-[Affected Parties [67](#affected-parties)](#affected-parties)
-
-[Likelihood and Severity
-[67](#likelihood-and-severity)](#likelihood-and-severity)
-
-[Mitigation Strategies
-[67](#mitigation-strategies)](#mitigation-strategies)
-
-[Residual Risk [67](#residual-risk)](#residual-risk)
-
-[Why the Risk and Misuse Register Matters
-[68](#_m7395uhlsexz)](#_m7395uhlsexz)
-
-[Ethical Design as Ongoing Responsibility
-[68](#ethical-design-as-ongoing-responsibility)](#ethical-design-as-ongoing-responsibility)
-
-[Ethics as a Structural Property of Systems
-[69](#ethics-as-a-structural-property-of-systems)](#ethics-as-a-structural-property-of-systems)
-
-[Chapter 7 [70](#_bmnf0m9gfgq4)](#_bmnf0m9gfgq4)
-
-[Engineering Governance Into Systems
-[70](#engineering-governance-into-systems)](#engineering-governance-into-systems)
-
-[Governance as a Structural Feature of Systems
-[71](#governance-as-a-structural-feature-of-systems)](#governance-as-a-structural-feature-of-systems)
-
-[Accountability [72](#_tvunn86ym5wr)](#_tvunn86ym5wr)
-
-[Auditability [73](#_4u5zrhwixzp)](#_4u5zrhwixzp)
-
-[Contestability [74](#_2uqaxytcn285)](#_2uqaxytcn285)
-
-[Scope Control [75](#_6839oefp92dv)](#_6839oefp92dv)
-
-[Introducing the Governance and Oversight Plan
-[76](#_wimadr2eg2ag)](#_wimadr2eg2ag)
-
-[Accountability Structure
-[76](#accountability-structure)](#accountability-structure)
-
-[Audit Mechanisms [76](#audit-mechanisms)](#audit-mechanisms)
-
-[Contestation Pathways
-[76](#contestation-pathways)](#contestation-pathways)
-
-[Scope Boundaries [76](#scope-boundaries)](#scope-boundaries)
-
-[Oversight Roles [76](#oversight-roles)](#oversight-roles)
-
-[Why the Governance and Oversight Plan Matters
-[77](#_jy0ujizca0qp)](#_jy0ujizca0qp)
-
-[Governance as an Engineering Discipline
-[77](#governance-as-an-engineering-discipline)](#governance-as-an-engineering-discipline)
-
-[From Governance Principles to Operational Systems
-[78](#from-governance-principles-to-operational-systems)](#from-governance-principles-to-operational-systems)
-
-[Chapter 8 [79](#_8poe76dbwfb1)](#_8poe76dbwfb1)
-
-[Architecture as Responsibility
-[79](#architecture-as-responsibility)](#architecture-as-responsibility)
-
-[Architecture Encodes Values
-[79](#architecture-encodes-values)](#architecture-encodes-values)
-
-[Architecture Shapes Authority
-[80](#architecture-shapes-authority)](#architecture-shapes-authority)
-
-[Architecture Determines Oversight
-[81](#architecture-determines-oversight)](#architecture-determines-oversight)
-
-[Architecture and Responsibility Distribution
-[82](#architecture-and-responsibility-distribution)](#architecture-and-responsibility-distribution)
-
-[Key Architectural Design Patterns
-[82](#key-architectural-design-patterns)](#key-architectural-design-patterns)
-
-[Pattern 1: Decision Support Architecture
-[83](#pattern-1-decision-support-architecture)](#pattern-1-decision-support-architecture)
-
-[Pattern 2: Assisted Workflow Architecture
-[83](#pattern-2-assisted-workflow-architecture)](#pattern-2-assisted-workflow-architecture)
-
-[Pattern 3: Escalation Architecture
-[83](#pattern-3-escalation-architecture)](#pattern-3-escalation-architecture)
-
-[Pattern 4: Transparent Logging Architecture
-[84](#pattern-4-transparent-logging-architecture)](#pattern-4-transparent-logging-architecture)
-
-[Pattern 5: Modular Responsibility Architecture
-[84](#pattern-5-modular-responsibility-architecture)](#pattern-5-modular-responsibility-architecture)
-
-[Architecture and Capability Preservation
-[85](#architecture-and-capability-preservation)](#architecture-and-capability-preservation)
-
-[From Technical Systems to Responsible Systems
-[85](#from-technical-systems-to-responsible-systems)](#from-technical-systems-to-responsible-systems)
-
-[Chapter 9 [87](#_46nchxyy6jxv)](#_46nchxyy6jxv)
-
-[Evaluating Human--AI Systems
-[87](#evaluating-humanai-systems)](#evaluating-humanai-systems)
-
-[The Limits of Performance Metrics [88](#_s5l07tvqil5c)](#_s5l07tvqil5c)
-
-[Evaluating Capability Outcomes
-[88](#evaluating-capability-outcomes)](#evaluating-capability-outcomes)
-
-[Behavioural Indicators
-[89](#behavioural-indicators)](#behavioural-indicators)
-
-[Governance Review [90](#governance-review)](#governance-review)
-
-[Monitoring System Drift
-[91](#monitoring-system-drift)](#monitoring-system-drift)
-
-[Behavioural Drift [91](#behavioural-drift)](#behavioural-drift)
-
-[Organisational Drift
-[91](#organisational-drift)](#organisational-drift)
-
-[Technical Drift [91](#technical-drift)](#technical-drift)
-
-[Signals of Capability Erosion
-[91](#signals-of-capability-erosion)](#signals-of-capability-erosion)
-
-[Integrating Evaluation Into System Design
-[92](#integrating-evaluation-into-system-design)](#integrating-evaluation-into-system-design)
-
-[Evaluation as Institutional Learning
-[92](#evaluation-as-institutional-learning)](#evaluation-as-institutional-learning)
-
-[Beyond Performance [93](#beyond-performance)](#beyond-performance)
-
-[Chapter 10 [94](#_1ou2hu1l722a)](#_1ou2hu1l722a)
-
-[Iteration Without Drift
-[94](#iteration-without-drift)](#iteration-without-drift)
-
-[Why System Evolution Is Inevitable
-[95](#_5c5etqiopuda)](#_5c5etqiopuda)
-
-[Operational Learning
-[95](#operational-learning)](#operational-learning)
-
-[Technical Updates [95](#technical-updates)](#technical-updates)
-
-[Organisational Change
-[95](#organisational-change)](#organisational-change)
-
-[Expanded Expectations
-[95](#expanded-expectations)](#expanded-expectations)
-
-[The Risk of Automation Creep [96](#_741viv4uz7oa)](#_741viv4uz7oa)
-
-[Recognising Capability Drift [97](#_4ofz128q22so)](#_4ofz128q22so)
-
-[Responsible System Evolution
-[97](#responsible-system-evolution)](#responsible-system-evolution)
-
-[Does the change affect capability intent?
-[97](#does-the-change-affect-capability-intent)](#does-the-change-affect-capability-intent)
-
-[Does the change alter human--AI boundaries?
-[97](#does-the-change-alter-humanai-boundaries)](#does-the-change-alter-humanai-boundaries)
-
-[Does the change affect governance mechanisms?
-[98](#does-the-change-affect-governance-mechanisms)](#does-the-change-affect-governance-mechanisms)
-
-[Does the change introduce new risks?
-[98](#does-the-change-introduce-new-risks)](#does-the-change-introduce-new-risks)
-
-[Documenting Change [98](#documenting-change)](#documenting-change)
-
-[Change Logs and System History
-[99](#change-logs-and-system-history)](#change-logs-and-system-history)
-
-[Governance Review of System Changes
-[99](#governance-review-of-system-changes)](#governance-review-of-system-changes)
-
-[Iteration as a Learning Process
-[100](#iteration-as-a-learning-process)](#iteration-as-a-learning-process)
-
-[Maintaining Alignment With Capability Intent
-[100](#maintaining-alignment-with-capability-intent)](#maintaining-alignment-with-capability-intent)
-
-[Designing Systems That Can Evolve Responsibly
-[101](#designing-systems-that-can-evolve-responsibly)](#designing-systems-that-can-evolve-responsibly)
-
-[Iteration as Stewardship [101](#_db8krrh3zho0)](#_db8krrh3zho0)
-
-[Chapter 11 [102](#chapter-11)](#chapter-11)
-
-[Designing for System Endings
-[102](#designing-for-system-endings)](#designing-for-system-endings)
-
-[Why Systems Persist Beyond Their Purpose
-[103](#why-systems-persist-beyond-their-purpose)](#why-systems-persist-beyond-their-purpose)
-
-[Institutional Dependence
-[103](#institutional-dependence-1)](#institutional-dependence-1)
-
-[Loss of System Knowledge
-[103](#loss-of-system-knowledge)](#loss-of-system-knowledge)
-
-[Governance Uncertainty
-[103](#governance-uncertainty)](#governance-uncertainty)
-
-[Incremental Adaptation
-[103](#incremental-adaptation)](#incremental-adaptation)
-
-[Responsible System Retirement
-[104](#responsible-system-retirement)](#responsible-system-retirement)
-
-[What responsibilities does the system currently support?
-[104](#what-responsibilities-does-the-system-currently-support)](#what-responsibilities-does-the-system-currently-support)
-
-[What records must be preserved?
-[104](#what-records-must-be-preserved)](#what-records-must-be-preserved)
-
-[What dependencies exist?
-[104](#what-dependencies-exist)](#what-dependencies-exist)
-
-[How will stakeholders adapt?
-[104](#how-will-stakeholders-adapt)](#how-will-stakeholders-adapt)
-
-[Institutional Learning [105](#_i6159w7edtmr)](#_i6159w7edtmr)
-
-[Transition Planning [105](#transition-planning)](#transition-planning)
-
-[Capability Preservation
-[106](#capability-preservation)](#capability-preservation)
-
-[Governance Continuity
-[106](#governance-continuity)](#governance-continuity)
-
-[Data and Record Migration
-[106](#data-and-record-migration)](#data-and-record-migration)
-
-[Stakeholder Communication
-[106](#stakeholder-communication)](#stakeholder-communication)
-
-[Avoiding Institutional Amnesia
-[106](#avoiding-institutional-amnesia)](#avoiding-institutional-amnesia)
-
-[Retirement as Responsible Stewardship
-[107](#retirement-as-responsible-stewardship)](#retirement-as-responsible-stewardship)
-
-[Completing the Capability-Driven Development Lifecycle
-[107](#completing-the-capability-driven-development-lifecycle)](#completing-the-capability-driven-development-lifecycle)
-
-[PART III [109](#part-iii)](#part-iii)
-
-[Applying Capability-Driven Development
-[109](#applying-capability-driven-development)](#applying-capability-driven-development)
-
-[Chapter 12 [110](#_qo6msnqrqa4u)](#_qo6msnqrqa4u)
-
-[Building Responsible Decision Support Systems
-[110](#building-responsible-decision-support-systems)](#building-responsible-decision-support-systems)
-
-[The Promise and Risk of Decision Support Systems
-[111](#the-promise-and-risk-of-decision-support-systems)](#the-promise-and-risk-of-decision-support-systems)
-
-[Automation Bias [112](#_p98yyz9h2r9n)](#_p98yyz9h2r9n)
-
-[Pseudo-Objectivity [113](#_f0b7a4d9vzw2)](#_f0b7a4d9vzw2)
-
-[Accountability Loss [113](#accountability-loss)](#accountability-loss)
-
-[Applying Capability-Driven Development
-[114](#applying-capability-driven-development-1)](#applying-capability-driven-development-1)
-
-[Step 1: Defining Capability Intent
-[114](#_c1578b3xtclh)](#_c1578b3xtclh)
-
-[Step 2: Defining Human--AI Boundaries
-[115](#step-2-defining-humanai-boundaries)](#step-2-defining-humanai-boundaries)
-
-[Step 3: Ethical and Risk Analysis
-[115](#step-3-ethical-and-risk-analysis)](#step-3-ethical-and-risk-analysis)
-
-[Step 4: Governance Integration [116](#_lcun4lrke2ma)](#_lcun4lrke2ma)
-
-[Step 5: Architectural Design [116](#_lmgrkwr1rk7k)](#_lmgrkwr1rk7k)
-
-[Example Workflow [116](#example-workflow)](#example-workflow)
-
-[Monitoring System Behaviour
-[117](#monitoring-system-behaviour)](#monitoring-system-behaviour)
-
-[Strengthening Institutional Capability
-[117](#strengthening-institutional-capability)](#strengthening-institutional-capability)
-
-[Decision Support as Responsible Human--AI Collaboration
-[118](#decision-support-as-responsible-humanai-collaboration)](#decision-support-as-responsible-humanai-collaboration)
-
-[Chapter 13 [119](#_1mn5evuea8b1)](#_1mn5evuea8b1)
-
-[Designing Workflow Orchestration Systems
-[119](#designing-workflow-orchestration-systems)](#designing-workflow-orchestration-systems)
-
-[Understanding Coordination Systems
-[120](#understanding-coordination-systems)](#understanding-coordination-systems)
-
-[When Coordination Becomes Decision
-[121](#when-coordination-becomes-decision)](#when-coordination-becomes-decision)
-
-[Human--AI Boundaries in Orchestration Systems
-[122](#humanai-boundaries-in-orchestration-systems)](#humanai-boundaries-in-orchestration-systems)
-
-[Escalation Design [122](#escalation-design)](#escalation-design)
-
-[Responsibility in Distributed Workflows
-[123](#responsibility-in-distributed-workflows)](#responsibility-in-distributed-workflows)
-
-[Architectural Patterns for Responsible Orchestration
-[124](#architectural-patterns-for-responsible-orchestration)](#architectural-patterns-for-responsible-orchestration)
-
-[Assisted Routing [124](#assisted-routing)](#assisted-routing)
-
-[Conditional Automation
-[124](#conditional-automation)](#conditional-automation)
-
-[Escalation Pathways [124](#escalation-pathways)](#escalation-pathways)
-
-[Transparent Logging [124](#transparent-logging)](#transparent-logging)
-
-[Agentic AI and Workflow Orchestration
-[124](#agentic-ai-and-workflow-orchestration)](#agentic-ai-and-workflow-orchestration)
-
-[Designing Responsible Agentic Orchestration
-[125](#designing-responsible-agentic-orchestration)](#designing-responsible-agentic-orchestration)
-
-[Capability Intent [125](#capability-intent)](#capability-intent)
-
-[Human--AI Boundaries [125](#humanai-boundaries)](#humanai-boundaries)
-
-[Escalation Mechanisms
-[125](#escalation-mechanisms)](#escalation-mechanisms)
-
-[Governance Visibility
-[125](#governance-visibility)](#governance-visibility)
-
-[Monitoring Orchestration Systems
-[126](#monitoring-orchestration-systems)](#monitoring-orchestration-systems)
-
-[Strengthening Organisational Coordination
-[126](#strengthening-organisational-coordination)](#strengthening-organisational-coordination)
-
-[Orchestration as Institutional Infrastructure
-[127](#_1v7i1yocvm2n)](#_1v7i1yocvm2n)
-
-[Chapter 14 [128](#_hch1jha5mbgs)](#_hch1jha5mbgs)
-
-[Monitoring Without Surveillance
-[128](#monitoring-without-surveillance)](#monitoring-without-surveillance)
-
-[The Purpose of Monitoring Systems
-[129](#the-purpose-of-monitoring-systems)](#the-purpose-of-monitoring-systems)
-
-[Governance Monitoring vs Surveillance
-[130](#_noqnc4nn0xqr)](#_noqnc4nn0xqr)
-
-[Governance Dashboards
-[130](#governance-dashboards)](#governance-dashboards)
-
-[Designing Responsible Governance Dashboards
-[131](#designing-responsible-governance-dashboards)](#designing-responsible-governance-dashboards)
-
-[Aggregation [131](#aggregation)](#aggregation)
-
-[Interpretability [131](#interpretability)](#interpretability)
-
-[Context [131](#context)](#context)
-
-[Governance Relevance
-[132](#governance-relevance)](#governance-relevance)
-
-[Anomaly Detection [132](#anomaly-detection)](#anomaly-detection)
-
-[Interpreting Anomalies [133](#_gchwbu4ikweo)](#_gchwbu4ikweo)
-
-[Ethical Monitoring Systems [133](#_afv0ojyo4sbn)](#_afv0ojyo4sbn)
-
-[Purpose Limitation [133](#purpose-limitation)](#purpose-limitation)
-
-[Transparency [133](#transparency)](#transparency)
-
-[Proportionality [134](#proportionality)](#proportionality)
-
-[Governance Oversight
-[134](#governance-oversight)](#governance-oversight)
-
-[Surveillance Creep [134](#surveillance-creep)](#surveillance-creep)
-
-[Scope Expansion [134](#scope-expansion)](#scope-expansion)
-
-[Feature Accumulation
-[134](#feature-accumulation)](#feature-accumulation)
-
-[Data Repurposing [134](#data-repurposing)](#data-repurposing)
-
-[Cultural Shift [134](#cultural-shift)](#cultural-shift)
-
-[Designing Systems That Resist Surveillance Creep
-[135](#designing-systems-that-resist-surveillance-creep)](#designing-systems-that-resist-surveillance-creep)
-
-[Explicit Scope Definition
-[135](#explicit-scope-definition)](#explicit-scope-definition)
-
-[Governance Boundaries
-[135](#governance-boundaries)](#governance-boundaries)
-
-[Oversight Review [135](#oversight-review)](#oversight-review)
-
-[Architectural Safeguards
-[135](#architectural-safeguards)](#architectural-safeguards)
-
-[Monitoring as Institutional Learning
-[135](#monitoring-as-institutional-learning)](#monitoring-as-institutional-learning)
-
-[Monitoring and Trust
-[136](#monitoring-and-trust)](#monitoring-and-trust)
-
-[Monitoring as Responsible Oversight
-[136](#monitoring-as-responsible-oversight)](#monitoring-as-responsible-oversight)
-
-[PART IV [138](#part-iv)](#part-iv)
-
-[Capability-Driven Development in Practice
-[138](#capability-driven-development-in-practice)](#capability-driven-development-in-practice)
-
-[Chapter 15 [139](#_r2570c6fgnxb)](#_r2570c6fgnxb)
-
-[Implementing Capability-Driven Development in Organisations
-[139](#implementing-capability-driven-development-in-organisations)](#implementing-capability-driven-development-in-organisations)
-
-[From Method to Practice
-[140](#from-method-to-practice)](#from-method-to-practice)
-
-[Designing Effective System Design Teams
-[140](#designing-effective-system-design-teams)](#designing-effective-system-design-teams)
-
-[Technical Engineers [140](#technical-engineers)](#technical-engineers)
-
-[Domain Experts [141](#domain-experts)](#domain-experts)
-
-[Governance and Compliance Specialists
-[141](#governance-and-compliance-specialists)](#governance-and-compliance-specialists)
-
-[Product or Service Designers
-[141](#product-or-service-designers)](#product-or-service-designers)
-
-[The Role of Domain Expertise
-[141](#the-role-of-domain-expertise)](#the-role-of-domain-expertise)
-
-[Governance Bodies as Design Partners
-[142](#governance-bodies-as-design-partners)](#governance-bodies-as-design-partners)
-
-[Structuring Review Processes
-[142](#structuring-review-processes)](#structuring-review-processes)
-
-[Capability Intent Review
-[143](#capability-intent-review)](#capability-intent-review)
-
-[Boundary Review [143](#boundary-review)](#boundary-review)
-
-[Risk and Ethics Review
-[143](#risk-and-ethics-review)](#risk-and-ethics-review)
-
-[Governance Review [143](#governance-review-1)](#governance-review-1)
-
-[Integrating CDD with Agile Development
-[143](#integrating-cdd-with-agile-development)](#integrating-cdd-with-agile-development)
-
-[Integrating CDD with DevOps Practices
-[144](#integrating-cdd-with-devops-practices)](#integrating-cdd-with-devops-practices)
-
-[Documentation and Institutional Memory
-[144](#documentation-and-institutional-memory)](#documentation-and-institutional-memory)
-
-[Training and Capability Development
-[145](#training-and-capability-development)](#training-and-capability-development)
-
-[Embedding CDD in Organisational Culture
-[145](#embedding-cdd-in-organisational-culture)](#embedding-cdd-in-organisational-culture)
-
-[Implementing CDD Incrementally
-[146](#implementing-cdd-incrementally)](#implementing-cdd-incrementally)
-
-[CDD as Institutional Capability
-[146](#cdd-as-institutional-capability)](#cdd-as-institutional-capability)
-
-[Toward Responsible Human--AI Systems
-[147](#toward-responsible-humanai-systems)](#toward-responsible-humanai-systems)
-
-[Chapter 16 [148](#_ezhs0ni6t4b3)](#_ezhs0ni6t4b3)
-
-[The Future of Governable AI Systems
-[148](#the-future-of-governable-ai-systems)](#the-future-of-governable-ai-systems)
-
-[From Tools to Infrastructure
-[149](#from-tools-to-infrastructure)](#from-tools-to-infrastructure)
-
-[The Emergence of Human--AI Capability
-[150](#_ay4nmphpxfc9)](#_ay4nmphpxfc9)
-
-[Governance-Aware Engineering
-[150](#governance-aware-engineering)](#governance-aware-engineering)
-
-[Responsible System Design
-[151](#responsible-system-design)](#responsible-system-design)
-
-[Connecting CDD to the AI Capability Framework
-[152](#connecting-cdd-to-the-ai-capability-framework)](#connecting-cdd-to-the-ai-capability-framework)
-
-[Connecting CDD to Human--AI Governance Engineering
-[153](#_1tajqsopfbx2)](#_1tajqsopfbx2)
-
-[Toward Governable AI Infrastructure
-[153](#toward-governable-ai-infrastructure)](#toward-governable-ai-infrastructure)
-
-[The Future of Capability-Centred Design
-[154](#the-future-of-capability-centred-design)](#the-future-of-capability-centred-design)
-
-[A Different Vision of Technological Progress
-[155](#_1827iq4714ch)](#_1827iq4714ch)
-
-[Designing Systems Worth Trusting
-[155](#designing-systems-worth-trusting)](#designing-systems-worth-trusting)
-
-[Appendix [157](#_o2csh2eal4yf)](#_o2csh2eal4yf)
-
-[CDD Design Artifacts Toolkit
-[157](#cdd-design-artifacts-toolkit)](#cdd-design-artifacts-toolkit)
-
-[System Capability Brief [158](#_u3qojmobl9cd)](#_u3qojmobl9cd)
-
-[Purpose of the System
-[158](#purpose-of-the-system)](#purpose-of-the-system)
-
-[Capability Goals [158](#capability-goals)](#capability-goals)
-
-[Risks of Capability Erosion
-[158](#risks-of-capability-erosion)](#risks-of-capability-erosion)
-
-[Boundaries of Automation
-[159](#boundaries-of-automation)](#boundaries-of-automation)
-
-[Human--AI Boundary Map
-[159](#humanai-boundary-map)](#humanai-boundary-map)
-
-[Decision Points [159](#decision-points)](#decision-points)
-
-[Role of AI Systems [159](#role-of-ai-systems)](#role-of-ai-systems)
-
-[Escalation Pathways
-[159](#escalation-pathways-1)](#escalation-pathways-1)
-
-[Override Mechanisms [160](#override-mechanisms)](#override-mechanisms)
-
-[Responsibility Traceability
-[160](#responsibility-traceability)](#responsibility-traceability)
-
-[Risk and Misuse Register
-[160](#risk-and-misuse-register)](#risk-and-misuse-register)
-
-[Foreseeable Harm [161](#_6dm23djvgd9r)](#_6dm23djvgd9r)
-
-[Risk Distribution [161](#risk-distribution)](#risk-distribution)
-
-[Misuse Scenarios [161](#misuse-scenarios)](#misuse-scenarios)
-
-[Mitigation Strategies
-[161](#mitigation-strategies-1)](#mitigation-strategies-1)
-
-[Governance and Oversight Plan
-[161](#governance-and-oversight-plan)](#governance-and-oversight-plan)
-
-[Accountability Structures
-[161](#accountability-structures)](#accountability-structures)
-
-[Audit Mechanisms [162](#audit-mechanisms-1)](#audit-mechanisms-1)
-
-[Contestability Procedures
-[162](#contestability-procedures)](#contestability-procedures)
-
-[Scope Control [162](#scope-control-1)](#scope-control-1)
-
-[Evaluation Log [162](#evaluation-log)](#evaluation-log)
-
-[Capability Outcomes [162](#capability-outcomes)](#capability-outcomes)
-
-[Behavioural Indicators
-[162](#behavioural-indicators-1)](#behavioural-indicators-1)
-
-[Governance Indicators
-[163](#governance-indicators)](#governance-indicators)
-
-[Emerging Risks [163](#emerging-risks)](#emerging-risks)
-
-[Retirement Notes [163](#retirement-notes)](#retirement-notes)
-
-[Conditions for Retirement
-[163](#conditions-for-retirement)](#conditions-for-retirement)
-
-[Transition Planning
-[163](#transition-planning-1)](#transition-planning-1)
-
-[Data Preservation [163](#data-preservation)](#data-preservation)
-
-[Institutional Learning
-[164](#institutional-learning-1)](#institutional-learning-1)
-
-[Using the Toolkit [164](#using-the-toolkit)](#using-the-toolkit)
-
-[Design Artifacts as Governance Infrastructure
-[164](#design-artifacts-as-governance-infrastructure)](#design-artifacts-as-governance-infrastructure)
-
-[Accessing the Capability-Driven Development Toolkit
-[165](#accessing-the-capability-driven-development-toolkit)](#accessing-the-capability-driven-development-toolkit)
-
 # Preface
 
 Artificial intelligence is increasingly woven into the systems that
@@ -1096,13 +216,9 @@ systems themselves.
 
 Capability-Driven Development offers a practical way to do exactly that.
 
-[]{#_o2ytntbqj5e4 .anchor}
-
 # PART I
 
 # Why We Need Capability-Driven Development
-
-[]{#_mwh633ge945l .anchor}
 
 # Chapter 1
 
@@ -1194,8 +310,6 @@ judgement toward automated guidance.
 
 This phenomenon is far more common than many organisations realise.
 
-[]{#_4xuaeudksgsx .anchor}
-
 ## Automation Drift
 
 One of the most persistent patterns in AI-enabled systems is what might
@@ -1234,8 +348,6 @@ Preventing automation drift requires systems that explicitly protect the
 role of human judgement rather than assuming that it will remain intact
 by default.
 
-[]{#_6ab75saesde0 .anchor}
-
 ## Governance Gaps
 
 Another hidden failure of many AI systems is the presence of
@@ -1273,8 +385,6 @@ Capability-Driven Development addresses this problem by treating
 governance as a **design property**. Systems must be built in ways that
 allow accountability, oversight, and contestation to occur in practice,
 not just in principle.
-
-[]{#_i4ob8rgjihek .anchor}
 
 ## Misplaced Trust in Algorithms
 
@@ -1395,8 +505,6 @@ practical method for achieving this goal.
 By examining how systems can be designed to preserve capability rather
 than erode it, we can begin to build AI-enabled systems that remain
 accountable, governable, and trustworthy over time.
-
-[]{#_ywdybs9ptdk0 .anchor}
 
 # Chapter 2
 
@@ -1739,8 +847,6 @@ systems that remain accountable, contestable, and trustworthy.
 The next chapter introduces the conceptual foundation that makes this
 approach possible: the idea that **capability must precede automation**.
 
-[]{#_qvrl8bdbal7y .anchor}
-
 # Chapter 3
 
 # Capability as a Design Constraint
@@ -1925,8 +1031,6 @@ fully explain.
 Capability-Driven Development therefore treats institutional capability
 as a core design consideration. Systems must support not only individual
 decision-making but also institutional accountability.
-
-[]{#_fhedd94oe95n .anchor}
 
 ## Professional Judgement as a Central Capability
 
@@ -2132,8 +1236,6 @@ approach: the step-by-step structure of Capability-Driven Development.
 
 # The Capability-Driven Development Method
 
-[]{#_53iqnr6qfcoq .anchor}
-
 # Chapter 4
 
 # Designing for Capability First
@@ -2214,8 +1316,6 @@ What capabilities must this system strengthen or protect?
 
 Only after this question is answered can responsible automation
 decisions be made.
-
-[]{#_1hgedw65opu2 .anchor}
 
 # What Is Capability Intent?
 
@@ -2454,8 +1554,6 @@ Examples might include:
 
 These constraints shape later design decisions.
 
-[]{#_ldnphe28zabp .anchor}
-
 ### Capability Risks
 
 Identification of potential risks that could erode capability.
@@ -2537,8 +1635,6 @@ responsibilities should be distributed between humans and AI systems.
 The next chapter introduces the second step of Capability-Driven
 Development: defining **human--AI boundaries**.
 
-[]{#_37ojwltrhnvq .anchor}
-
 # Chapter 5
 
 # Defining Human--AI Boundaries
@@ -2571,8 +1667,6 @@ uncertain or problematic results.
 
 In short, human--AI boundaries determine how responsibility is enacted
 in practice.
-
-[]{#_ee0gsini4unf .anchor}
 
 # Why Human--AI Boundaries Must Be Explicit
 
@@ -2674,7 +1768,7 @@ Designers must answer questions such as:
 - When must human approval always be required?
 
 These questions ensure that responsibility remains visible and
-enforceable.[]{#_ukk2p4hl45xs .anchor}
+enforceable.
 
 # Delegation: What Can AI Do?
 
@@ -2833,8 +1927,6 @@ cumbersome or poorly integrated into workflows.
 These failures demonstrate why boundaries must be explicitly designed
 and documented.
 
-[]{#_qh76m6y5txr1 .anchor}
-
 # Introducing the Human--AI Boundary Map
 
 In Capability-Driven Development, human--AI boundaries are captured in a
@@ -2860,8 +1952,6 @@ the system.
 
 It also provides a reference point for governance discussions and system
 evaluation.
-
-[]{#_fotae3f7o8vo .anchor}
 
 # Why the Boundary Map Matters
 
@@ -2919,8 +2009,6 @@ The next chapter explores how Capability-Driven Development addresses
 these considerations as core design inputs rather than post-deployment
 concerns.
 
-[]{#_1ko0pjy3oyc1 .anchor}
-
 # Chapter 6
 
 # Designing for Ethics, Equity, and Risk
@@ -2953,8 +2041,6 @@ understand how risks are distributed, anticipate misuse, and assess
 potential equity impacts. It also introduces the **Risk and Misuse
 Register**, a design artefact that helps teams document and address
 these issues systematically.
-
-[]{#_c3isphy4yfy .anchor}
 
 # Ethics as a Design Input
 
@@ -3059,8 +2145,6 @@ Capability-Driven Development therefore encourages designers to ask:
 Answering these questions can reveal structural inequities that might
 otherwise remain hidden.
 
-[]{#_fu6b4zmsmt6g .anchor}
-
 # Misuse and System Drift
 
 Another important dimension of risk involves **misuse**.
@@ -3095,8 +2179,6 @@ these risks.
 For example, systems may include explicit scope boundaries, transparency
 mechanisms, or governance review processes that prevent misuse from
 becoming normalised.
-
-[]{#_88gliiz7szqm .anchor}
 
 # Equity Impacts
 
@@ -3182,8 +2264,6 @@ or manage the risk.
 Recognition that some risks cannot be eliminated entirely and must be
 managed through oversight or governance.
 
-[]{#_m7395uhlsexz .anchor}
-
 # Why the Risk and Misuse Register Matters
 
 The Risk and Misuse Register serves several important purposes.
@@ -3257,8 +2337,6 @@ responsible.
 
 The next chapter examines how these ethical and risk considerations
 translate into concrete mechanisms for **governance and oversight**.
-
-[]{#_bmnf0m9gfgq4 .anchor}
 
 # Chapter 7
 
@@ -3349,8 +2427,6 @@ property of their operation?
 Answering this question requires attention to several key design
 principles.
 
-[]{#_tvunn86ym5wr .anchor}
-
 # Accountability
 
 The first and most fundamental governance property is
@@ -3396,8 +2472,6 @@ Accountability mechanisms may include:
 
 These mechanisms ensure that responsibility does not disappear inside
 complex technical systems.
-
-[]{#_4u5zrhwixzp .anchor}
 
 # Auditability
 
@@ -3445,8 +2519,6 @@ as:
 These records allow organisations to trace how decisions unfolded over
 time.
 
-[]{#_2uqaxytcn285 .anchor}
-
 # Contestability
 
 Governance also requires the ability to **challenge system outcomes**.
@@ -3483,8 +2555,6 @@ judgement rather than becoming unquestioned authority.
 
 Contestability is particularly important in contexts where system
 outputs affect individuals' rights, opportunities, or wellbeing.
-
-[]{#_6839oefp92dv .anchor}
 
 # Scope Control
 
@@ -3524,8 +2594,6 @@ These mechanisms may include:
 Scope control protects institutions from gradual shifts that could
 undermine capability, accountability, or ethical alignment.
 
-[]{#_wimadr2eg2ag .anchor}
-
 # Introducing the Governance and Oversight Plan
 
 To integrate these governance properties into system design,
@@ -3562,8 +2630,6 @@ What functions and decisions fall within the system's intended scope?
 
 Which individuals or bodies are responsible for reviewing system
 performance?
-
-[]{#_jy0ujizca0qp .anchor}
 
 # Why the Governance and Oversight Plan Matters
 
@@ -3638,8 +2704,6 @@ systems continue to perform as intended over time.
 
 The next chapter examines how Capability-Driven Development supports
 **evaluation, monitoring, and learning** once systems are deployed.
-
-[]{#_8poe76dbwfb1 .anchor}
 
 # Chapter 8
 
@@ -3965,8 +3029,6 @@ The next chapter examines how such systems can be evaluated and
 monitored over time to ensure that capability, governance, and
 responsibility remain intact as systems evolve.
 
-[]{#_46nchxyy6jxv .anchor}
-
 # Chapter 9
 
 # Evaluating Human--AI Systems
@@ -4009,8 +3071,6 @@ by focusing on three areas:
 
 Together, these dimensions allow organisations to assess whether AI
 systems remain aligned with their intended purpose.
-
-[]{#_s5l07tvqil5c .anchor}
 
 # The Limits of Performance Metrics
 
@@ -4280,8 +3340,6 @@ creation.
 The next chapter explores how systems can evolve responsibly over time
 through **iteration, adaptation, and continuous improvement**.
 
-[]{#_1ou2hu1l722a .anchor}
-
 # Chapter 10
 
 # Iteration Without Drift
@@ -4315,8 +3373,6 @@ structures defined during the design phase.
 This chapter explores how organisations can support responsible system
 evolution while avoiding automation creep and preserving institutional
 accountability.
-
-[]{#_5c5etqiopuda .anchor}
 
 # Why System Evolution Is Inevitable
 
@@ -4356,8 +3412,6 @@ organisational workflows.
 However, without careful oversight, evolution can gradually reshape the
 system in unintended ways.
 
-[]{#_741viv4uz7oa .anchor}
-
 # The Risk of Automation Creep
 
 One of the most common risks associated with system evolution is
@@ -4396,8 +3450,6 @@ concern rather than a purely technical issue**.
 
 Preventing automation creep requires mechanisms that ensure system
 changes remain aligned with the original capability intent.
-
-[]{#_4ofz128q22so .anchor}
 
 # Recognising Capability Drift
 
@@ -4606,8 +3658,6 @@ organisations can guide system evolution responsibly.
 Systems remain adaptable without losing sight of the principles that
 shaped their design.
 
-[]{#_db8krrh3zho0 .anchor}
-
 # Iteration as Stewardship
 
 Ultimately, the evolution of AI-enabled systems should be understood as
@@ -4755,8 +3805,6 @@ transition to alternative tools or workflows.
 
 Responsible retirement therefore requires planning, documentation, and
 communication.
-
-[]{#_i6159w7edtmr .anchor}
 
 # Institutional Learning
 
@@ -4910,8 +3958,6 @@ of responsible technologies.
 
 # Applying Capability-Driven Development
 
-[]{#_qo6msnqrqa4u .anchor}
-
 # Chapter 12
 
 # Building Responsible Decision Support Systems
@@ -4995,8 +4041,6 @@ even determine outcomes.
 Understanding these risks is the first step toward designing responsible
 systems.
 
-[]{#_p98yyz9h2r9n .anchor}
-
 # Automation Bias
 
 One of the most well-documented risks in decision support systems is
@@ -5034,8 +4078,6 @@ around which judgement is formed.
 Capability-Driven Development addresses automation bias by ensuring that
 system design actively supports human interpretation rather than passive
 acceptance of automated outputs.
-
-[]{#_f0b7a4d9vzw2 .anchor}
 
 # Pseudo-Objectivity
 
@@ -5099,8 +4141,7 @@ professionals in evaluating complex cases.
 Such a system might analyse relevant data, highlight important factors,
 and generate recommendations for possible actions.
 
-Applying CDD to this system involves several steps.[]{#_c1578b3xtclh
-.anchor}
+Applying CDD to this system involves several steps.
 
 # Step 1: Defining Capability Intent
 
@@ -5164,8 +4205,6 @@ mitigation strategies.
 For example, system outputs may be accompanied by explanations or
 contextual information that encourages critical interpretation.
 
-[]{#_lcun4lrke2ma .anchor}
-
 # Step 4: Governance Integration
 
 Governance mechanisms must also be integrated into system architecture.
@@ -5180,8 +4219,6 @@ This may include:
 
 Such mechanisms ensure that system behaviour remains transparent and
 accountable.
-
-[]{#_lmgrkwr1rk7k .anchor}
 
 # Step 5: Architectural Design
 
@@ -5276,8 +4313,6 @@ rely upon them.
 Such systems do not automate judgement.
 
 They support it.
-
-[]{#_1mn5evuea8b1 .anchor}
 
 # Chapter 13
 
@@ -5642,8 +4677,6 @@ support escalation, and maintain transparency.
 Capability-Driven Development provides the design principles needed to
 achieve this balance.
 
-[]{#_1v7i1yocvm2n .anchor}
-
 # Orchestration as Institutional Infrastructure
 
 Workflow orchestration systems increasingly form the backbone of
@@ -5666,8 +4699,6 @@ rather than quietly reshaping it in ways that undermine responsibility.
 The final chapter examines how these principles extend to broader
 monitoring and oversight systems that support governance across entire
 organisational infrastructures.
-
-[]{#_hch1jha5mbgs .anchor}
 
 # Chapter 14
 
@@ -5753,8 +4784,6 @@ However, monitoring systems must be designed carefully.
 
 If they are poorly designed, they can create cultures of surveillance
 rather than systems of responsible oversight.
-
-[]{#_noqnc4nn0xqr .anchor}
 
 # Governance Monitoring vs Surveillance
 
@@ -5878,8 +4907,6 @@ However, anomaly detection systems must be designed carefully to ensure
 that alerts support governance rather than generate noise or unjustified
 suspicion.
 
-[]{#_gchwbu4ikweo .anchor}
-
 # Interpreting Anomalies
 
 An anomaly does not necessarily indicate wrongdoing or failure.
@@ -5898,8 +4925,7 @@ Alerts should prompt human review rather than trigger automatic
 responses.
 
 Capability-Driven Development encourages anomaly detection systems that
-support interpretive judgement rather than automated
-enforcement.[]{#_afv0ojyo4sbn .anchor}
+support interpretive judgement rather than automated enforcement.
 
 # Ethical Monitoring Systems
 
@@ -6069,8 +5095,6 @@ governable, and aligned with human judgement.
 # PART IV
 
 # Capability-Driven Development in Practice
-
-[]{#_r2570c6fgnxb .anchor}
 
 # Chapter 15
 
@@ -6441,8 +5465,6 @@ Capability-Driven Development therefore represents not only a method for
 building better systems but also a framework for sustaining responsible
 institutions in an increasingly AI-enabled world.
 
-[]{#_ezhs0ni6t4b3 .anchor}
-
 # Chapter 16
 
 # The Future of Governable AI Systems
@@ -6533,8 +5555,6 @@ sufficient.
 
 When AI systems influence institutional processes, they must also
 support governance.
-
-[]{#_ay4nmphpxfc9 .anchor}
 
 # The Emergence of Human--AI Capability
 
@@ -6671,8 +5691,6 @@ to preserve and strengthen that capability.
 Together, these approaches form a coherent model for responsible AI
 adoption.
 
-[]{#_1tajqsopfbx2 .anchor}
-
 # Connecting CDD to Human--AI Governance Engineering
 
 Capability-Driven Development is also closely aligned with the emerging
@@ -6753,8 +5771,6 @@ They provide a way to ensure that technological systems remain aligned
 with human judgement and institutional responsibility even as AI
 capabilities expand.
 
-[]{#_1827iq4714ch .anchor}
-
 # A Different Vision of Technological Progress
 
 The emergence of methods like CDD reflects a broader shift in how
@@ -6804,8 +5820,6 @@ solely on advances in technology.
 It will depend on our ability to design systems that remain aligned with
 the human and institutional capabilities they are meant to serve.
 
-[]{#_o2csh2eal4yf .anchor}
-
 Appendix
 
 # CDD Design Artifacts Toolkit
@@ -6851,8 +5865,6 @@ The core artefacts in the CDD toolkit are:
 
 Each artefact addresses a specific challenge in designing responsible AI
 systems.
-
-[]{#_u3qojmobl9cd .anchor}
 
 # System Capability Brief
 
@@ -6986,8 +5998,6 @@ The Risk and Misuse Register encourages designers to consider these
 issues early in the design process.
 
 The register typically includes several categories.
-
-[]{#_6dm23djvgd9r .anchor}
 
 ### Foreseeable Harm
 
